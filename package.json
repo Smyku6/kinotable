@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "clean": "node -e \"try{require('fs').rmSync('.next',{recursive:true,force:true})}catch{};try{require('fs').rmSync('out',{recursive:true,force:true})}catch{}\"",
+    "build": "pnpm run clean && next build",
     "start": "next start",
     "lint": "eslint"
   },

@@ -14,12 +14,14 @@ export function useDb() {
             try {
                 setLoading(true);
                 setError(null);
-                const res = await fetch("/data/build/db.json", { cache: "no-store" });
+                const base = process.env.NEXT_PUBLIC_BASE_PATH ? `/${process.env.NEXT_PUBLIC_BASE_PATH}` : "";
+
+                const res = await fetch(`${base}/data/build/db.json`, { cache: "no-store" });
                 if (!res.ok) throw new Error(`HTTP ${res.status}`);
                 const json = (await res.json()) as Db;
                 if (alive) setDb(json);
-            } catch (e: any) {
-                if (alive) setError(e?.message ?? "Failed to load db.json");
+            } catch (e) {
+                if (alive) setError("Failed to load db.json");
             } finally {
                 if (alive) setLoading(false);
             }

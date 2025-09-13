@@ -48,13 +48,13 @@ export default function FileLoader({ onLoad }: { onLoad: (data: Seans[]) => void
             console.table(moviesUnique);
 
             // Opcjonalnie wystaw do konsoli
-            (window as any).__moviesAll__ = moviesAll;
-            (window as any).__moviesUnique__ = moviesUnique;
+            // (window).__moviesAll__ = moviesAll;
+            // (window as any).__moviesUnique__ = moviesUnique;
 
             // Standardowe wczytanie do appki
             onLoad(json as Seans[]);
-        } catch (err: any) {
-            setError(err?.message || "Failed to load file");
+        } catch (err) {
+            setError("Failed to load file");
         }
     };
 
