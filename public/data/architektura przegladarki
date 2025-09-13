@@ -1,0 +1,157 @@
+Pewnie — podejdźmy do tego „jak zawodowcy”. Poniżej masz **plan architektury** przeglądarki filmów z myślą o wydajności, czystości i skalowalności. Zero zbędnych rerenderów, jasne odpowiedzialności, proste do testowania.
+
+# 1) Model danych (jedno źródło prawdy)
+
+* Ładujemy **raz** `db.json` (lazy po wejściu na podstronę).
+* Normalizujemy do słowników (O(1) lookup) i lekkich indeksów:
+
+  * `moviesById: Record<string, Movie>`
+  * `contestsById: Record<string, Contest>`
+  * `locationsById: Record<string, Location>`
+  * `screenings: Screening[]`
+  * **indeksy pomocnicze (precompute po wczytaniu):**
+
+    * `id → Set<sectionName>` (na podstawie screenings+contests)
+    * `id → year` (z movies/meta)
+    * `id → accreditationOnly:boolean` (wystarczy OR po screenings dla filmu)
+    * `yearsSorted: number[]`
+    * `sectionsSorted: string[]`
+* Trzymaj w pamięci **tylko ID** (listy, wyniki), nie całe obiekty.
+
+# 2) Stan aplikacji (lekki store + selektory)
+
+Zamiast rozlewać useState po komponentach:
+
+* Użyj małego store’a (np. **Zustand**) z **selectorami** (jak Reselect) i płytkim porównaniem.
+* **Stan filtrów** (jeden obiekt):
+
+  * `q: string` (search po tytułach)
+  * `sections: Set<string>` (puste = wszystkie)
+  * `years: Set<number>` (puste = wszystkie)
+  * `accreditationOnly?: boolean | null` (null = obojętne; true/false = filtr)
+  * `likedOnly: boolean` (lokalny zbiór ID w localStorage)
+* **Stan danych**:
+
+  * `db: Db | null`
+  * `indexes: { movieSections, movieYears, movieAccred, sectionsSorted, yearsSorted }`
+
+Zalety:
+
+* Komponenty subskrybują **tylko to**, czego potrzebują (selector → mniej rerenderów).
+* Logika filtrów w **selectorach** (memoized), nie w JSX.
+
+# 3) Selekcje/pochodne (wydajne, memoized)
+
+Zdefiniuj selektory:
+
+* `selectAllMoviesIds` → posortowane po tytule ID (robisz to raz po wczytaniu).
+* `selectFilteredids(filters)`:
+
+  1. start z `selectAllMoviesIds`
+  2. jeśli `q`: trzymaj **prez-normalizowane** tytuły (`titleFolded`) i filtruj po `includes` (debounce 120 ms)
+  3. jeśli `sections.size`: intersect z precomputed `movieSections`
+  4. jeśli `years.size`: intersect z `movieYears`
+  5. jeśli `accreditationOnly!=null`: filtr po `movieAccred`
+  6. jeśli `likedOnly`: intersect z `likedSet`
+* `selectMoviesGroupedBySection(filteredIds)`:
+
+  * mapuj ID → sekcje z indeksu; dla filmu bez sekcji daj „(brak sekcji)”
+  * **ważne:** zwracaj `Map<sectionName, number[]>` (ID), nie obiektów
+  * sort sekcji wg **priorytetów** (tablica z kolejnością)
+* Opcjonalnie: `selectGroupCounts` do liczników na pillach (robisz jednokrotnie przy filtrze, na ID).
+
+**Unikaj** liczenia „w locie” w komponentach. Selekcje robią całą robotę.
+
+# 4) UI/komponenty (małe, czyste, stabilne)
+
+Struktura:
+
+```
+/app/movies/page.tsx        // entry (client)
+/features/movies/store.ts   // zustand + selektory
+/features/movies/selectors.ts
+/features/movies/components/
+  SearchBox.tsx
+  SectionPills.tsx
+  YearPills.tsx
+  Toggles.tsx               // accreditationOnly / likedOnly
+  MovieGrid.tsx             // virtualization (react-window)
+  MovieCard.tsx
+```
+
+Zasady:
+
+* Każdy komponent łączy się przez **selector**, np. `useStore(s => s.filteredIds)` — tylko to, nic więcej.
+* **Stabilne propsy** (memo, useCallback). Przekazuj **ID**, nie obiekty.
+* **Virtualizacja** listy (react-window) przy większej liczbie filmów.
+* **Pillsy**:
+
+  * biorą `sectionsSorted`/`yearsSorted` + `selectedSet` + `onToggle(id)`
+  * render nie zależy od całej listy filmów → brak rerenderów przy wpisaniu `q`.
+* **SearchBox** z debouncem i controlled input (opóźnia wyliczenie selektora).
+* **Toggles** (checkboxy) zmieniają tylko flagi w store.
+
+# 5) URL jako single source of shareable state
+
+* Sync filtry ↔ **query string** (useEffect + shallow replace):
+  `?q=vinci&sections=Konkurs%20Główny,Specjalne&years=2025,1974&accr=1&liked=1`
+* Na mount: **hydrate** filtry z URL.
+* Dzięki temu deep-link działa i debug jest banalny.
+
+# 6) “Liked” — lokalna persystencja
+
+* `likedSet` trzymaj w **localStorage** (`movieLikes-v1`) + in-memory Set.
+* Operacje: `toggleLike(id)` → aktualizuje Set i zapisuje async.
+* Filtr `likedOnly` to po prostu intersect z `likedSet`.
+
+# 7) Performance checklist
+
+* **Precompute**:
+
+  * posortowane tytuły i **folded** wersje (bez diakrytyków) — unikasz kosztów przy każdym wpisie.
+  * mapy `id → Set<section>`, `id → year`, `id → accredFlag`
+* **Memoizacja** selektorów (argumenty = filtry). Prosty cache LRU 1–2 wpisy wystarczy.
+* **Referencyjna stabilność**:
+
+  * settery w store mają `useCallback` w środku (Zustand robi to sam), komponenty dostają stabilne funkcje.
+  * nie generuj nowych Set/Array bez potrzeby; update przez kopię tylko przy zmianie.
+* **Virtualizacja** listy wyników i/lub grup (sekcje) jeśli rośnie.
+* **Split**: cięższe elementy (np. karty z plakatem) ładowane lazy.
+
+# 8) Testowalność i niezawodność
+
+* Selektory jako **czyste funkcje** → łatwo testować (input: dane + filtry → output: ID).
+* Snapshoty dla komponowania grup po sekcji.
+* E2E (Playwright) dla krytycznych ścieżek: wpisywanie w search, klikanie pillów, toggli, URL sync.
+
+# 9) Accessibility & UX
+
+* Search: `role="combobox"`, aria, focus-ring. Debounce 120 ms.
+* Pills: `role="tablist"`/`button`, wyraźny stan aktywności, liczniki.
+* Checkboxy: label + opis (np. „Tylko akredytacje”).
+* Puste stany: klarowna informacja + przycisk „Wyczyść filtry”.
+
+# 10) Porządek i konfiguracja
+
+* **Konfiguracja kolejności sekcji** w JSON-ie (`/data/section-order.json`) → change without redeploy.
+* Kolorystyka sekcji w jednym mapowaniu (tokeny design systemu).
+* Wszystkie „magiczne” stałe (debounce, progi) w jednym `config.ts`.
+
+---
+
+## Minimalny przepływ (runtime)
+
+1. `useEffect` → fetch `db.json` → normalizacja → budowa indeksów → zapis do store.
+2. Użytkownik wpisuje `q` → setter w store (z debouncem) → **selector** liczy wynik na ID → renderuje tylko grid.
+3. Użytkownik klika pilsa/checkbox → setter w store → **selector** liczy nowy wynik → renderuje tylko grid.
+4. Zmiany filtrów synchronizują się z **URL** (shallow).
+
+---
+
+To podejście:
+
+* **eliminuje kaskady rerenderów**, bo wszystko idzie przez *precomputed index + selektory*,
+* jest **czytelne** (czyste warstwy: dane → indeksy → selektory → UI),
+* i **skalowalne** (łatwo dorzucić filtry po lokacji, godzinach itp., bo to tylko kolejne selektory/intersecty).
+
+Jeśli chcesz, mogę od razu naszkicować szkielety `store.ts` + `selectors.ts` i wpiąć je w obecną stronę, żebyś miał to „plug-and-play”.

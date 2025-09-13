@@ -1,0 +1,86 @@
+[
+  {
+    "locationId": 2437,
+    "locationName": "2025"
+  },
+  {
+    "locationId": 681,
+    "locationName": "GCF - Sala Goplana"
+  },
+  {
+    "locationId": 683,
+    "locationName": "GCF - Sala Morskie Oko"
+  },
+  {
+    "locationId": 682,
+    "locationName": "GCF - Sala Warszawa"
+  },
+  {
+    "locationId": 684,
+    "locationName": "Helios - Sala 1"
+  },
+  {
+    "locationId": 685,
+    "locationName": "Helios - Sala 2"
+  },
+  {
+    "locationId": 686,
+    "locationName": "Helios - Sala 3"
+  },
+  {
+    "locationId": 687,
+    "locationName": "Helios - Sala 4"
+  },
+  {
+    "locationId": 688,
+    "locationName": "Helios - Sala 5"
+  },
+  {
+    "locationId": 689,
+    "locationName": "Helios - Sala 6"
+  },
+  {
+    "locationId": 2435,
+    "locationName": "Helios - Sala Dream 7"
+  },
+  {
+    "locationId": 2436,
+    "locationName": "Helios - Sala Dream 8"
+  },
+  {
+    "locationId": 694,
+    "locationName": "Hotel Gdynia Mercure"
+  },
+  {
+    "locationId": 693,
+    "locationName": "Klub Galeria - Księgarnia"
+  },
+  {
+    "locationId": 1521,
+    "locationName": "Konsulat Kultury"
+  },
+  {
+    "locationId": 692,
+    "locationName": "Plac Grunwaldzki"
+  },
+  {
+    "locationId": 690,
+    "locationName": "Scena Riviera"
+  },
+  {
+    "locationId": 2508,
+    "locationName": "Teatr Miejski im. Witolda Gombrowicza"
+  },
+  {
+    "locationId": 680,
+    "locationName": "Teatr Muzyczny - Duża Scena"
+  },
+  {
+    "locationId": 679,
+    "locationName": "Teatr Muzyczny - Nowa Scena"
+  },
+  {
+    "locationId": 691,
+    "locationName": "Teatr Muzyczny - Scena Kameralna"
+  }
+]

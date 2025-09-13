@@ -1,0 +1,57 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ /* ############################################################################################### */
+/* ###################################### MORE-STEPS ############################################# */
+/* ############################################################################################### */
+
+@media all and (min-width:769px) {
+	#multi-step-form.fw-large-container.fw-more-than-five .fw-progress-bar .fw-progress-step {
+		width: 14%;
+		font-size: 1.275em
+	}
+	#multi-step-form.fw-large-container.fw-more-than-five .fw-progress-bar .fw-progress-step:nth-child(5) {
+		width: 112px;
+		padding-right: 0
+	}
+	#multi-step-form.fw-large-container.fw-more-than-five .fw-progress-bar .fw-progress-step:nth-child(5):after {
+		display: none
+	}
+	#multi-step-form.fw-large-container.fw-more-than-five .fw-progress-bar .fw-progress-step .txt-ellipsis {
+		width: 100px
+	}
+	#multi-step-form.fw-large-container.fw-more-than-five .fw-progress-bar .fw-progress-step:last-child .txt-ellipsis {
+		visibility: hidden
+	}
+	#multi-step-form.fw-large-container.fw-more-than-five .fw-progress-bar .fw-progress-step:after {
+		left: 5%
+	}
+
+	#multi-step-form.fw-large-container .fw-progress-bar.fw-step-after-fifth .fw-progress-step:nth-child(-n+4) {
+		display: none
+	}
+	#multi-step-form.fw-large-container .fw-progress-bar.fw-step-after-fifth .fw-progress-step:nth-child(n+6) {
+		display: inline-block
+	}
+	#multi-step-form.fw-large-container .fw-progress-bar.fw-step-after-fifth .fw-progress-step:nth-child(5) .txt-ellipsis {
+		width: 60px
+	}
+	#multi-step-form.fw-large-container .fw-progress-bar.fw-step-after-fifth .fw-progress-step:last-child .txt-ellipsis {
+		visibility: visible
+	}
+}
+
+/* MORE THAN FIVE STEPS */
+
+.fw-more-than-five .fw-active .progress {
+	width: 40%;
+	-webkit-animation: progress-bar-animation 1s ease-out;
+	-moz-animation: progress-bar-animation 1s ease-out;
+	animation: progress-bar-animation 1s ease-out;
+	-o-animation: progress-bar-animation 1s ease-out
+}
+.fw-more-than-five .fw-progress-step:nth-child(5) .progress {
+	display: none
+}

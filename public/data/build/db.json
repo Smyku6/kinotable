@@ -1,0 +1,6621 @@
+{
+  "$schemaVersion": "1.0.0",
+  "generatedAt": "2025-09-13T13:11:52.897Z",
+  "moviesById": {
+    "59768": {
+      "id": 59768,
+      "originalTitle": "Asomia",
+      "year": 2025,
+      "runtimeMin": 15,
+      "directors": [
+        "Wojciech Węglarz"
+      ]
+    },
+    "59775": {
+      "id": 59775,
+      "originalTitle": "Bazarowe Love",
+      "year": 2025,
+      "runtimeMin": 19,
+      "directors": [
+        "Jakub Pycak"
+      ]
+    },
+    "59786": {
+      "id": 59786,
+      "originalTitle": "Bez reszty",
+      "year": 2025,
+      "runtimeMin": 29,
+      "directors": [
+        "Jakub Prysak"
+      ]
+    },
+    "59794": {
+      "id": 59794,
+      "originalTitle": "Bliżej",
+      "year": 2025,
+      "runtimeMin": 17,
+      "directors": [
+        "Aleksandra Szczyrek"
+      ]
+    },
+    "59805": {
+      "id": 59805,
+      "originalTitle": "Ćwiartka",
+      "year": 2025,
+      "runtimeMin": 12,
+      "directors": [
+        "Maja Górczak"
+      ]
+    },
+    "59814": {
+      "id": 59814,
+      "originalTitle": "Dickflip",
+      "year": 2025,
+      "runtimeMin": 15,
+      "directors": [
+        "Dominik Hadziewicz"
+      ]
+    },
+    "59820": {
+      "id": 59820,
+      "originalTitle": "Fish and Chips",
+      "year": 2025,
+      "runtimeMin": 20,
+      "directors": [
+        "Bartłomiej Błaszczyński"
+      ]
+    },
+    "59829": {
+      "id": 59829,
+      "originalTitle": "Fuck them all",
+      "year": 2025,
+      "runtimeMin": 15,
+      "directors": [
+        "Polina Biliaieva"
+      ]
+    },
+    "59837": {
+      "id": 59837,
+      "originalTitle": "Glitter",
+      "year": 2025,
+      "runtimeMin": 16,
+      "directors": [
+        "Konrad Kultys"
+      ]
+    },
+    "59844": {
+      "id": 59844,
+      "originalTitle": "Houdini",
+      "year": 2025,
+      "runtimeMin": 19,
+      "directors": [
+        "Mariusz Rusiński"
+      ]
+    },
+    "59850": {
+      "id": 59850,
+      "originalTitle": "Jagody",
+      "year": 2025,
+      "runtimeMin": 16,
+      "directors": [
+        "Marta Kowalska"
+      ]
+    },
+    "59857": {
+      "id": 59857,
+      "originalTitle": "Jak się odkochać",
+      "year": 2025,
+      "runtimeMin": 16,
+      "directors": [
+        "Varvara Zarytska"
+      ]
+    },
+    "59863": {
+      "id": 59863,
+      "originalTitle": "Jogurt",
+      "year": 2025,
+      "runtimeMin": 27,
+      "directors": [
+        "Aleksandra Góralewska"
+      ]
+    },
+    "59869": {
+      "id": 59869,
+      "originalTitle": "Lucciola",
+      "year": 2025,
+      "runtimeMin": 15,
+      "directors": [
+        "Aleksandra Neyman"
+      ]
+    },
+    "59876": {
+      "id": 59876,
+      "originalTitle": "Ludzie i rzeczy",
+      "year": 2024,
+      "runtimeMin": 20,
+      "directors": [
+        "Damian Kosowski"
+      ]
+    },
+    "59883": {
+      "id": 59883,
+      "originalTitle": "Navidad de Marga",
+      "year": 2025,
+      "runtimeMin": 22,
+      "directors": [
+        "Marcia Majcher"
+      ]
+    },
+    "59890": {
+      "id": 59890,
+      "originalTitle": "Nibylandex",
+      "year": 2025,
+      "runtimeMin": 23,
+      "directors": [
+        "Agata Kapuścińska"
+      ]
+    },
+    "59896": {
+      "id": 59896,
+      "originalTitle": "Nigdy nie znikasz",
+      "year": 2025,
+      "runtimeMin": 20,
+      "directors": [
+        "Jakub Cyryl Grabarczyk"
+      ]
+    },
+    "59902": {
+      "id": 59902,
+      "originalTitle": "Patrzę w niebo",
+      "year": 2025,
+      "runtimeMin": 24,
+      "directors": [
+        "Alexandra Strunin"
+      ]
+    },
+    "59909": {
+      "id": 59909,
+      "originalTitle": "Po prostu",
+      "year": 2025,
+      "runtimeMin": 17,
+      "directors": [
+        "Olga Kałagate"
+      ]
+    },
+    "59916": {
+      "id": 59916,
+      "originalTitle": "Pożegnanie z morzem",
+      "year": 2025,
+      "runtimeMin": 13,
+      "directors": [
+        "Mateusz Nowak"
+      ]
+    },
+    "59924": {
+      "id": 59924,
+      "originalTitle": "SLAP!!",
+      "year": 2025,
+      "runtimeMin": 22,
+      "directors": [
+        "Mikołaj Piszczan"
+      ]
+    },
+    "59931": {
+      "id": 59931,
+      "originalTitle": "Soap Opera",
+      "year": 2025,
+      "runtimeMin": 16,
+      "directors": [
+        "Anja Zalewska"
+      ]
+    },
+    "59938": {
+      "id": 59938,
+      "originalTitle": "Strach",
+      "year": 2025,
+      "runtimeMin": 20,
+      "directors": [
+        "Robert Zawadzki"
+      ]
+    },
+    "59944": {
+      "id": 59944,
+      "originalTitle": "Szmonces o Dybuku",
+      "year": 2025,
+      "runtimeMin": 22,
+      "directors": [
+        "Maciej Tyburski"
+      ]
+    },
+    "59950": {
+      "id": 59950,
+      "originalTitle": "Szumy i fonie",
+      "year": 2024,
+      "runtimeMin": 16,
+      "directors": [
+        "Piotr Krzysztof Kamiński"
+      ]
+    },
+    "59956": {
+      "id": 59956,
+      "originalTitle": "Taty nie ma",
+      "year": 2025,
+      "runtimeMin": 28,
+      "directors": [
+        "Jan Saczek"
+      ]
+    },
+    "59961": {
+      "id": 59961,
+      "originalTitle": "tłum. it's okay to be quiet",
+      "year": 2025,
+      "runtimeMin": 21,
+      "directors": [
+        "Filip Jakubowski"
+      ]
+    },
+    "59967": {
+      "id": 59967,
+      "originalTitle": "Wyspy",
+      "year": 2025,
+      "runtimeMin": 15,
+      "directors": [
+        "Jakub Wenda"
+      ]
+    },
+    "59973": {
+      "id": 59973,
+      "originalTitle": "Żabi śpiew",
+      "year": 2025,
+      "runtimeMin": 15,
+      "directors": [
+        "Xymena Zaręba"
+      ]
+    },
+    "59978": {
+      "id": 59978,
+      "originalTitle": "Zwyczaje pingwinów",
+      "year": 2025,
+      "runtimeMin": 15,
+      "directors": [
+        "Jakub Poterała"
+      ]
+    },
+    "59983": {
+      "id": 59983,
+      "originalTitle": "zza szyby podglądam jak umiera sarna, młoda",
+      "year": 2025,
+      "runtimeMin": 16,
+      "directors": [
+        "Angelika Cygal"
+      ]
+    },
+    "60175": {
+      "id": 60175,
+      "originalTitle": "Brat",
+      "year": 2025,
+      "runtimeMin": 98,
+      "directors": [
+        "Maciej Sobieszczański"
+      ]
+    },
+    "60188": {
+      "id": 60188,
+      "originalTitle": "Chopin, Chopin!",
+      "year": 2025,
+      "runtimeMin": 133,
+      "directors": [
+        "Michał Kwieciński"
+      ]
+    },
+    "60200": {
+      "id": 60200,
+      "originalTitle": "Dom dobry",
+      "year": 2025,
+      "runtimeMin": 107,
+      "directors": [
+        "Wojtek Smarzowski"
+      ]
+    },
+    "60214": {
+      "id": 60214,
+      "originalTitle": "Franz Kafka",
+      "year": 2025,
+      "runtimeMin": 127,
+      "directors": [
+        "Agnieszka Holland"
+      ]
+    },
+    "60220": {
+      "id": 60220,
+      "originalTitle": "Klarnet",
+      "year": 2025,
+      "runtimeMin": 101,
+      "directors": [
+        "Tola Jasionowska"
+      ]
+    },
+    "60225": {
+      "id": 60225,
+      "originalTitle": "Ministranci",
+      "year": 2025,
+      "runtimeMin": 110,
+      "directors": [
+        "Piotr Domalewski"
+      ]
+    },
+    "60230": {
+      "id": 60230,
+      "originalTitle": "Nie ma duchów w mieszkaniu na Dobrej",
+      "year": 2025,
+      "runtimeMin": 90,
+      "directors": [
+        "Emi Buchwald"
+      ]
+    },
+    "60236": {
+      "id": 60236,
+      "originalTitle": "Terytorium",
+      "year": 2025,
+      "runtimeMin": 97,
+      "directors": [
+        "Bartosz Paduch"
+      ]
+    },
+    "60241": {
+      "id": 60241,
+      "originalTitle": "Trzy miłości",
+      "year": 2025,
+      "runtimeMin": 100,
+      "directors": [
+        "Łukasz Grzegorzek"
+      ]
+    },
+    "60247": {
+      "id": 60247,
+      "originalTitle": "Vinci 2",
+      "year": 2025,
+      "runtimeMin": 119,
+      "directors": [
+        "Juliusz Machulski"
+      ]
+    },
+    "60253": {
+      "id": 60253,
+      "originalTitle": "Wielka Warszawska",
+      "year": 2025,
+      "runtimeMin": 105,
+      "directors": [
+        "Bartłomiej Ignaciuk"
+      ]
+    },
+    "60259": {
+      "id": 60259,
+      "originalTitle": "Zamach na papieża",
+      "year": 2025,
+      "runtimeMin": 116,
+      "directors": [
+        "Władysław Pasikowski"
+      ]
+    },
+    "60372": {
+      "id": 60372,
+      "originalTitle": "CAPO",
+      "year": 2025,
+      "runtimeMin": 83,
+      "directors": [
+        "Robert Kwilman"
+      ]
+    },
+    "60378": {
+      "id": 60378,
+      "originalTitle": "Życie dla początkujących",
+      "year": 2025,
+      "runtimeMin": 76,
+      "directors": [
+        "Paweł Podolski"
+      ]
+    },
+    "60385": {
+      "id": 60385,
+      "originalTitle": "LARP. Miłość, trolle i inne questy",
+      "year": 2025,
+      "runtimeMin": 94,
+      "directors": [
+        "Kordian Kądziela"
+      ]
+    },
+    "60391": {
+      "id": 60391,
+      "originalTitle": "Światłoczuła",
+      "year": 2024,
+      "runtimeMin": 93,
+      "directors": [
+        "Tadeusz Śliwa"
+      ]
+    },
+    "60507": {
+      "id": 60507,
+      "originalTitle": "13 dni do wakacji",
+      "year": 2025,
+      "runtimeMin": 80,
+      "directors": [
+        "Bartosz M. Kowalski"
+      ]
+    },
+    "60518": {
+      "id": 60518,
+      "originalTitle": "Dziennik z wycieczki do Budapesztu",
+      "year": 2024,
+      "runtimeMin": 127,
+      "directors": [
+        "Rafał Kapeliński"
+      ]
+    },
+    "60530": {
+      "id": 60530,
+      "originalTitle": "Glorious Summer",
+      "year": 2025,
+      "runtimeMin": 89,
+      "directors": [
+        "Helena Ganjalyan, Bartosz Szpak"
+      ]
+    },
+    "60543": {
+      "id": 60543,
+      "originalTitle": "Las",
+      "year": 2025,
+      "runtimeMin": 95,
+      "directors": [
+        "Joanna Zastróżna"
+      ]
+    },
+    "60556": {
+      "id": 60556,
+      "originalTitle": "Północ Południe",
+      "year": 2025,
+      "runtimeMin": 75,
+      "directors": [
+        "Sebastian Pańczyk"
+      ]
+    },
+    "60578": {
+      "id": 60578,
+      "originalTitle": "To się nie dzieje",
+      "year": 2025,
+      "runtimeMin": 76,
+      "directors": [
+        "Artur Wyrzykowski"
+      ]
+    },
+    "60591": {
+      "id": 60591,
+      "originalTitle": "Zaprawdę Hitler umarł",
+      "year": 2025,
+      "runtimeMin": 85,
+      "directors": [
+        "Monika Strzępka"
+      ]
+    },
+    "60606": {
+      "id": 60606,
+      "originalTitle": "Przepiękne!",
+      "year": 2025,
+      "runtimeMin": 119,
+      "directors": [
+        "Katia Priwieziencew"
+      ]
+    },
+    "60817": {
+      "id": 60817,
+      "originalTitle": "Ja gorę!",
+      "year": 1967,
+      "runtimeMin": 27,
+      "directors": [
+        "Janusz Majewski"
+      ]
+    },
+    "60821": {
+      "id": 60821,
+      "originalTitle": "Nieciekawa historia",
+      "year": 1982,
+      "runtimeMin": 106,
+      "directors": [
+        "Wojciech Jerzy Has"
+      ]
+    },
+    "60837": {
+      "id": 60837,
+      "originalTitle": "Popiół i diament",
+      "year": 1958,
+      "runtimeMin": 97,
+      "directors": [
+        "Andrzej Wajda"
+      ]
+    },
+    "60841": {
+      "id": 60841,
+      "originalTitle": "Córki dancingu",
+      "year": 2015,
+      "runtimeMin": 89,
+      "directors": [
+        "Agnieszka Smoczyńska"
+      ]
+    },
+    "60847": {
+      "id": 60847,
+      "originalTitle": "Szpital przemienienia",
+      "year": 1974,
+      "runtimeMin": 90,
+      "directors": [
+        "Edward Żebrowski"
+      ]
+    },
+    "60853": {
+      "id": 60853,
+      "originalTitle": "Awatar, czyli zamiana dusz",
+      "year": 1964,
+      "runtimeMin": 59,
+      "directors": [
+        "Janusz Majewski"
+      ]
+    },
+    "60899": {
+      "id": 60899,
+      "originalTitle": "Dziadku, wiejemy!",
+      "year": 2025,
+      "runtimeMin": 96,
+      "directors": [
+        "Olga Chajdas"
+      ]
+    },
+    "60911": {
+      "id": 60911,
+      "originalTitle": "Skrzat. Nowy początek",
+      "year": 2025,
+      "runtimeMin": 99,
+      "directors": [
+        "Krzysztof Komander"
+      ]
+    },
+    "60929": {
+      "id": 60929,
+      "originalTitle": "Oskar, Patka i Złoto Bałtyku",
+      "year": 2025,
+      "runtimeMin": 92,
+      "directors": [
+        "Magdalena Nieć",
+        "Mariusz Palej"
+      ]
+    },
+    "60938": {
+      "id": 60938,
+      "originalTitle": "Skarbek i tajemnica magicznego sreberka",
+      "year": 2024,
+      "runtimeMin": 96,
+      "directors": [
+        "Tomasz Jurkiewicz"
+      ]
+    },
+    "60973": {
+      "id": 60973,
+      "originalTitle": "Walkower",
+      "year": 1965,
+      "runtimeMin": 78,
+      "directors": [
+        "Jerzy Skolimowski"
+      ]
+    },
+    "60992": {
+      "id": 60992,
+      "originalTitle": "Kallafiorr",
+      "year": 1999,
+      "runtimeMin": 60,
+      "directors": [
+        "Jacek Borcuch"
+      ]
+    },
+    "60997": {
+      "id": 60997,
+      "originalTitle": "Vabank",
+      "year": 1981,
+      "runtimeMin": 108,
+      "directors": [
+        "Juliusz Machulski"
+      ]
+    },
+    "61002": {
+      "id": 61002,
+      "originalTitle": "Rysopis",
+      "year": 1964,
+      "runtimeMin": 76,
+      "directors": [
+        "Jerzy Skolimowski"
+      ]
+    },
+    "61005": {
+      "id": 61005,
+      "originalTitle": "Krótki film o zabijaniu",
+      "year": 1987,
+      "runtimeMin": 84,
+      "directors": [
+        "Krzysztof Kieślowski"
+      ]
+    },
+    "61010": {
+      "id": 61010,
+      "originalTitle": "Człowiek magnes",
+      "year": 2001,
+      "runtimeMin": 19,
+      "directors": [
+        "Marcin Wrona"
+      ]
+    },
+    "61013": {
+      "id": 61013,
+      "originalTitle": "Demon",
+      "year": 2015,
+      "runtimeMin": 95,
+      "directors": [
+        "Marcin Wrona"
+      ]
+    },
+    "61044": {
+      "id": 61044,
+      "originalTitle": "Żądło",
+      "year": 1973,
+      "runtimeMin": 129,
+      "directors": [
+        "George Roy Hill"
+      ]
+    },
+    "61051": {
+      "id": 61051,
+      "originalTitle": "Awans",
+      "year": 1974,
+      "runtimeMin": 75,
+      "directors": [
+        "Janusz Zaorski"
+      ]
+    },
+    "61054": {
+      "id": 61054,
+      "originalTitle": "Sztuczki",
+      "year": 2007,
+      "runtimeMin": 95,
+      "directors": [
+        "Andrzej Jakimowski"
+      ]
+    },
+    "61060": {
+      "id": 61060,
+      "originalTitle": "Pora umierać",
+      "year": 2007,
+      "runtimeMin": 104,
+      "directors": [
+        "Dorota Kędzierzawska"
+      ]
+    },
+    "61066": {
+      "id": 61066,
+      "originalTitle": "Ogród Luizy",
+      "year": 2007,
+      "runtimeMin": 105,
+      "directors": [
+        "Maciej Wojtyszko"
+      ]
+    },
+    "61228": {
+      "id": 61228,
+      "originalTitle": "Wrota Europy",
+      "year": 1999,
+      "runtimeMin": 73,
+      "directors": [
+        "Jerzy Wójcik"
+      ]
+    },
+    "61254": {
+      "id": 61254,
+      "originalTitle": "Bądź wola moja",
+      "year": 2025,
+      "runtimeMin": 95,
+      "directors": [
+        "Julia Kowalski"
+      ]
+    },
+    "61262": {
+      "id": 61262,
+      "originalTitle": "Sanatorium pod Klepsydrą według Braci Quay",
+      "year": 2024,
+      "runtimeMin": 75,
+      "directors": [
+        "Stephen Quay",
+        "Timothy Quay"
+      ]
+    },
+    "61571": {
+      "id": 61571,
+      "originalTitle": "Mama",
+      "year": 2025,
+      "runtimeMin": 92,
+      "directors": [
+        "Or Sinai"
+      ]
+    },
+    "61676": {
+      "id": 61676,
+      "originalTitle": "Orzełek Iggy",
+      "year": 2025,
+      "runtimeMin": 85,
+      "directors": [
+        "Bartek Kędzierski"
+      ]
+    },
+    "61777": {
+      "id": 61777,
+      "originalTitle": "Pociągi",
+      "year": 2024,
+      "runtimeMin": 80,
+      "directors": [
+        "Maciej Drygas"
+      ]
+    },
+    "61785": {
+      "id": 61785,
+      "originalTitle": "Gość",
+      "year": 2024,
+      "runtimeMin": 78,
+      "directors": [
+        "Zvika Gregory Portnoy, Zuzanna Solakiewicz"
+      ]
+    },
+    "61792": {
+      "id": 61792,
+      "originalTitle": "Pod powierzchnią",
+      "year": 2025,
+      "runtimeMin": 102,
+      "directors": [
+        "Kinga Michalska"
+      ]
+    },
+    "61799": {
+      "id": 61799,
+      "originalTitle": "Silver",
+      "year": 2025,
+      "runtimeMin": 78,
+      "directors": [
+        "Natalia Koniarz"
+      ]
+    },
+    "61806": {
+      "id": 61806,
+      "originalTitle": "Pasja według Agnieszki",
+      "year": 2025,
+      "runtimeMin": 50,
+      "directors": [
+        "Wojciech Staroń"
+      ]
+    },
+    "61813": {
+      "id": 61813,
+      "originalTitle": "Pasażer Andrzej Munk",
+      "year": 2025,
+      "runtimeMin": 84,
+      "directors": [
+        "Michał Bielawski"
+      ]
+    },
+    "61821": {
+      "id": 61821,
+      "originalTitle": "Rysopis znaleziony po latach. Wojciech Jerzy Has",
+      "year": 2023,
+      "runtimeMin": 76,
+      "directors": [
+        "Sławomir Rogowski",
+        "Stanisław Zawiśliński"
+      ]
+    },
+    "62038": {
+      "id": 62038,
+      "originalTitle": "Egzamin",
+      "year": 2025,
+      "runtimeMin": 20,
+      "directors": [
+        "Piotr Bańkowski"
+      ]
+    },
+    "62045": {
+      "id": 62045,
+      "originalTitle": "RZYM TO KABARET – kulisy produkcji musicalu \"Quo Vadis\"",
+      "year": 2025,
+      "runtimeMin": 80,
+      "directors": [
+        "Agata Hering"
+      ]
+    },
+    "62053": {
+      "id": 62053,
+      "originalTitle": "Zmęczone",
+      "year": 2025,
+      "runtimeMin": 48,
+      "directors": [
+        "Elżbieta Benkowska"
+      ]
+    },
+    "62077": {
+      "id": 62077,
+      "originalTitle": "O psie, który jeździł koleją 2",
+      "year": 2005,
+      "runtimeMin": 93,
+      "directors": [
+        "Magdalena Nieć"
+      ]
+    },
+    "62828": {
+      "id": 62828,
+      "originalTitle": "Otwarcie Gdynia Dzieciom i pokaz filmu Skarbek i tajemnica magicznego sreberka",
+      "year": 2024,
+      "runtimeMin": 96,
+      "directors": [
+        "Tomasz Jurkiewicz"
+      ]
+    },
+    "62832": {
+      "id": 62832,
+      "originalTitle": "Uroczystość Otwarcia Festiwalu i pokaz filmu Chopin, Chopin!",
+      "year": 2025,
+      "runtimeMin": 133,
+      "directors": [
+        "Michał Kwieciński"
+      ]
+    },
+    "63021": {
+      "id": 63021,
+      "originalTitle": "IO",
+      "year": 2022,
+      "runtimeMin": 88,
+      "directors": [
+        "Jerzy Skolimowski"
+      ]
+    },
+    "63238": {
+      "id": 63238,
+      "originalTitle": "Masterclass Ewy Braun",
+      "year": null,
+      "runtimeMin": null,
+      "directors": null
+    },
+    "63241": {
+      "id": 63241,
+      "originalTitle": "Debata „Pół wieku i co dalej: Dokąd zmierza polskie kino? FPFF x EKRANY\"",
+      "year": null,
+      "runtimeMin": null,
+      "directors": null
+    },
+    "63244": {
+      "id": 63244,
+      "originalTitle": "Pokaz zwycięskich filmów krótkometrażowych",
+      "year": null,
+      "runtimeMin": null,
+      "directors": null
+    },
+    "63330": {
+      "id": 63330,
+      "originalTitle": "Konopielka",
+      "year": 1981,
+      "runtimeMin": 88,
+      "directors": [
+        "Witold Leszczyński"
+      ]
+    },
+    "63648": {
+      "id": 63648,
+      "originalTitle": "Rękopis znaleziony w Saragossie - pokaz filmu z muzyką na żywo",
+      "year": 1965,
+      "runtimeMin": 200,
+      "directors": [
+        "Wojciech Jerzy Has"
+      ]
+    }
+  },
+  "contestsById": {
+    "875": {
+      "id": 875,
+      "name": "Polonica"
+    },
+    "888": {
+      "id": 888,
+      "name": "Filmy z Gdyni"
+    },
+    "889": {
+      "id": 889,
+      "name": "Konkurs Filmów Krótkometrażowych"
+    },
+    "891": {
+      "id": 891,
+      "name": "Konkurs Główny"
+    },
+    "892": {
+      "id": 892,
+      "name": "Pokaz filmu Laureata Platynowych Lwów"
+    },
+    "896": {
+      "id": 896,
+      "name": "Film otwarcia"
+    },
+    "1492": {
+      "id": 1492,
+      "name": "Nagroda Złote Lwiątka im. Janusza Korczaka"
+    },
+    "1493": {
+      "id": 1493,
+      "name": "Mistrzowska Piątka"
+    },
+    "1504": {
+      "id": 1504,
+      "name": "Dokument w Gdyni"
+    },
+    "1933": {
+      "id": 1933,
+      "name": "Gdynia dzieciom"
+    },
+    "1934": {
+      "id": 1934,
+      "name": "Konkurs Perspektywy"
+    },
+    "1943": {
+      "id": 1943,
+      "name": "Masterclass Laureata Platynowych Lwów"
+    },
+    "1960": {
+      "id": 1960,
+      "name": "FINA Podwójne uderzenie"
+    },
+    "2408": {
+      "id": 2408,
+      "name": "20 lat PISF: Sesja pierwsza"
+    },
+    "2445": {
+      "id": 2445,
+      "name": "Konkurs Główny - uroczysty pokaz"
+    },
+    "2449": {
+      "id": 2449,
+      "name": "Konkurs Główny - pokaz prasowy"
+    },
+    "2450": {
+      "id": 2450,
+      "name": "Konkurs Filmów Krótkometrażowych - uroczysty pokaz"
+    },
+    "2451": {
+      "id": 2451,
+      "name": "100 lat FIPRESCI"
+    },
+    "2452": {
+      "id": 2452,
+      "name": "Kino offowe w Gdyni"
+    },
+    "2458": {
+      "id": 2458,
+      "name": "Gdynia dzieciom - spotkanie z twórcami"
+    },
+    "2459": {
+      "id": 2459,
+      "name": "Konkurs Perspektywy - uroczysty pokaz"
+    },
+    "2460": {
+      "id": 2460,
+      "name": "Konkurs Perspektywy - spotkanie z twórcami"
+    },
+    "2461": {
+      "id": 2461,
+      "name": "Konkurs Filmów Krótkometrażowych - spotkanie z twórcami"
+    },
+    "2463": {
+      "id": 2463,
+      "name": "Redliński x 2"
+    },
+    "2466": {
+      "id": 2466,
+      "name": "Konkurs Główny - spotkanie z twórcami"
+    },
+    "2468": {
+      "id": 2468,
+      "name": "Dokument w Gdyni - Portrety"
+    },
+    "2469": {
+      "id": 2469,
+      "name": "Marcin Wrona 10 lat później"
+    },
+    "2479": {
+      "id": 2479,
+      "name": "Europejska Akademia Filmowa - Pierwsza nagroda"
+    },
+    "2509": {
+      "id": 2509,
+      "name": "Wydarzenia towarzyszące"
+    }
+  },
+  "locationsById": {
+    "679": {
+      "id": 679,
+      "name": "Teatr Muzyczny - Nowa Scena"
+    },
+    "680": {
+      "id": 680,
+      "name": "Teatr Muzyczny - Duża Scena"
+    },
+    "681": {
+      "id": 681,
+      "name": "GCF - Sala Goplana"
+    },
+    "682": {
+      "id": 682,
+      "name": "GCF - Sala Warszawa"
+    },
+    "683": {
+      "id": 683,
+      "name": "GCF - Sala Morskie Oko"
+    },
+    "684": {
+      "id": 684,
+      "name": "Helios - Sala 1"
+    },
+    "685": {
+      "id": 685,
+      "name": "Helios - Sala 2"
+    },
+    "686": {
+      "id": 686,
+      "name": "Helios - Sala 3"
+    },
+    "687": {
+      "id": 687,
+      "name": "Helios - Sala 4"
+    },
+    "688": {
+      "id": 688,
+      "name": "Helios - Sala 5"
+    },
+    "689": {
+      "id": 689,
+      "name": "Helios - Sala 6"
+    },
+    "690": {
+      "id": 690,
+      "name": "Scena Riviera"
+    },
+    "691": {
+      "id": 691,
+      "name": "Teatr Muzyczny - Scena Kameralna"
+    },
+    "692": {
+      "id": 692,
+      "name": "Plac Grunwaldzki"
+    },
+    "693": {
+      "id": 693,
+      "name": "Klub Galeria - Księgarnia"
+    },
+    "694": {
+      "id": 694,
+      "name": "Hotel Gdynia Mercure"
+    },
+    "1521": {
+      "id": 1521,
+      "name": "Konsulat Kultury"
+    },
+    "2435": {
+      "id": 2435,
+      "name": "Helios - Sala Dream 7"
+    },
+    "2436": {
+      "id": 2436,
+      "name": "Helios - Sala Dream 8"
+    },
+    "2437": {
+      "id": 2437,
+      "name": "2025"
+    },
+    "2508": {
+      "id": 2508,
+      "name": "Teatr Miejski im. Witolda Gombrowicza"
+    }
+  },
+  "screenings": [
+    {
+      "ids": [
+        62828
+      ],
+      "titles": [
+        "Otwarcie Gdynia Dzieciom i pokaz filmu Skarbek i tajemnica magicznego sreberka"
+      ],
+      "contestId": 1933,
+      "locationId": 680,
+      "startsAt": "2025-09-22T09:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        62077
+      ],
+      "titles": [
+        "O psie, który jeździł koleją 2"
+      ],
+      "contestId": 1933,
+      "locationId": 680,
+      "startsAt": "2025-09-22T13:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        62832
+      ],
+      "titles": [
+        "Uroczystość Otwarcia Festiwalu i pokaz filmu Chopin, Chopin!"
+      ],
+      "contestId": 896,
+      "locationId": 680,
+      "startsAt": "2025-09-22T19:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-22T22:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 679,
+      "startsAt": "2025-09-22T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59786,
+        59973,
+        59820,
+        59916,
+        59924
+      ],
+      "titles": [
+        "Bez reszty",
+        "Żabi śpiew",
+        "Fish and Chips",
+        "Pożegnanie z morzem",
+        "SLAP!!"
+      ],
+      "contestId": 2450,
+      "locationId": 679,
+      "startsAt": "2025-09-22T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59863,
+        59869,
+        59967,
+        59890,
+        59938
+      ],
+      "titles": [
+        "Jogurt",
+        "Lucciola",
+        "Wyspy",
+        "Nibylandex",
+        "Strach"
+      ],
+      "contestId": 2450,
+      "locationId": 679,
+      "startsAt": "2025-09-22T13:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 2459,
+      "locationId": 679,
+      "startsAt": "2025-09-22T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 679,
+      "startsAt": "2025-09-22T19:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 679,
+      "startsAt": "2025-09-22T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59814,
+        59902,
+        59944,
+        59909,
+        59961
+      ],
+      "titles": [
+        "Dickflip",
+        "Patrzę w niebo",
+        "Szmonces o Dybuku",
+        "Po prostu",
+        "tłum. it's okay to be quiet"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-22T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59876,
+        59978,
+        59794,
+        59983,
+        59775,
+        59805
+      ],
+      "titles": [
+        "Ludzie i rzeczy",
+        "Zwyczaje pingwinów",
+        "Bliżej",
+        "zza szyby podglądam jak umiera sarna, młoda",
+        "Bazarowe Love",
+        "Ćwiartka"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-22T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59844,
+        59956,
+        59950,
+        59896,
+        59837
+      ],
+      "titles": [
+        "Houdini",
+        "Taty nie ma",
+        "Szumy i fonie",
+        "Nigdy nie znikasz",
+        "Glitter"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-22T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59768,
+        59850,
+        59829,
+        59857,
+        59931,
+        59883
+      ],
+      "titles": [
+        "Asomia",
+        "Jagody",
+        "Fuck them all",
+        "Jak się odkochać",
+        "Soap Opera",
+        "Navidad de Marga"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-22T16:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59814,
+        59902,
+        59944,
+        59909,
+        59961
+      ],
+      "titles": [
+        "Dickflip",
+        "Patrzę w niebo",
+        "Szmonces o Dybuku",
+        "Po prostu",
+        "tłum. it's okay to be quiet"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-22T18:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59876,
+        59978,
+        59794,
+        59983,
+        59775,
+        59805
+      ],
+      "titles": [
+        "Ludzie i rzeczy",
+        "Zwyczaje pingwinów",
+        "Bliżej",
+        "zza szyby podglądam jak umiera sarna, młoda",
+        "Bazarowe Love",
+        "Ćwiartka"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-22T21:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-22T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-22T11:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-22T15:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-22T17:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-22T20:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-22T22:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-22T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-22T10:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-22T12:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60821
+      ],
+      "titles": [
+        "Nieciekawa historia"
+      ],
+      "contestId": 892,
+      "locationId": 681,
+      "startsAt": "2025-09-22T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-22T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61060
+      ],
+      "titles": [
+        "Pora umierać"
+      ],
+      "contestId": 2408,
+      "locationId": 681,
+      "startsAt": "2025-09-22T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-22T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-22T10:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-22T12:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-22T15:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-22T17:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-22T19:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-22T22:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-22T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-22T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-22T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-22T16:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-22T19:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-22T21:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-22T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 2460,
+      "locationId": 686,
+      "startsAt": "2025-09-22T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59902,
+        59814,
+        59944,
+        59909,
+        59961
+      ],
+      "titles": [
+        "Patrzę w niebo",
+        "Dickflip",
+        "Szmonces o Dybuku",
+        "Po prostu",
+        "tłum. it's okay to be quiet"
+      ],
+      "contestId": 2461,
+      "locationId": 686,
+      "startsAt": "2025-09-22T15:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-22T18:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-22T20:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-22T22:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61676
+      ],
+      "titles": [
+        "Orzełek Iggy"
+      ],
+      "contestId": 1492,
+      "locationId": 687,
+      "startsAt": "2025-09-22T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-22T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-22T14:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-22T16:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-22T19:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-22T21:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59837,
+        59956,
+        59950,
+        59896,
+        59844
+      ],
+      "titles": [
+        "Glitter",
+        "Taty nie ma",
+        "Szumy i fonie",
+        "Nigdy nie znikasz",
+        "Houdini"
+      ],
+      "contestId": 889,
+      "locationId": 688,
+      "startsAt": "2025-09-22T09:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-22T12:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-22T14:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-22T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-22T19:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-22T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-22T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-22T11:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 2460,
+      "locationId": 689,
+      "startsAt": "2025-09-22T14:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-22T17:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-22T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-22T22:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-22T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-22T11:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-22T13:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-22T15:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-22T17:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-22T19:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-22T21:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-22T10:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-22T12:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-22T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-22T17:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-22T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-22T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-23T09:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-23T11:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-23T13:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-23T16:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-23T19:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-23T22:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 679,
+      "startsAt": "2025-09-23T08:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59902,
+        59814,
+        59944,
+        59909,
+        59961
+      ],
+      "titles": [
+        "Patrzę w niebo",
+        "Dickflip",
+        "Szmonces o Dybuku",
+        "Po prostu",
+        "tłum. it's okay to be quiet"
+      ],
+      "contestId": 2450,
+      "locationId": 679,
+      "startsAt": "2025-09-23T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 2459,
+      "locationId": 679,
+      "startsAt": "2025-09-23T13:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 2459,
+      "locationId": 679,
+      "startsAt": "2025-09-23T16:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 2459,
+      "locationId": 679,
+      "startsAt": "2025-09-23T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59786,
+        59973,
+        59820,
+        59916,
+        59924
+      ],
+      "titles": [
+        "Bez reszty",
+        "Żabi śpiew",
+        "Fish and Chips",
+        "Pożegnanie z morzem",
+        "SLAP!!"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-23T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59863,
+        59967,
+        59890,
+        59938,
+        59869
+      ],
+      "titles": [
+        "Jogurt",
+        "Wyspy",
+        "Nibylandex",
+        "Strach",
+        "Lucciola"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-23T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59876,
+        59978,
+        59794,
+        59983,
+        59775,
+        59805
+      ],
+      "titles": [
+        "Ludzie i rzeczy",
+        "Zwyczaje pingwinów",
+        "Bliżej",
+        "zza szyby podglądam jak umiera sarna, młoda",
+        "Bazarowe Love",
+        "Ćwiartka"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-23T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        63021
+      ],
+      "titles": [
+        "IO"
+      ],
+      "contestId": 2451,
+      "locationId": 691,
+      "startsAt": "2025-09-23T16:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59876,
+        59978,
+        59794,
+        59983,
+        59775,
+        59805
+      ],
+      "titles": [
+        "Ludzie i rzeczy",
+        "Zwyczaje pingwinów",
+        "Bliżej",
+        "zza szyby podglądam jak umiera sarna, młoda",
+        "Bazarowe Love",
+        "Ćwiartka"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-23T19:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59850,
+        59829,
+        59857,
+        59931,
+        59883,
+        59768
+      ],
+      "titles": [
+        "Jagody",
+        "Fuck them all",
+        "Jak się odkochać",
+        "Soap Opera",
+        "Navidad de Marga",
+        "Asomia"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-23T21:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-23T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-23T11:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-23T13:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-23T15:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-23T17:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-23T20:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-23T22:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61792
+      ],
+      "titles": [
+        "Pod powierzchnią"
+      ],
+      "contestId": 1504,
+      "locationId": 681,
+      "startsAt": "2025-09-23T10:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61228
+      ],
+      "titles": [
+        "Wrota Europy"
+      ],
+      "contestId": 1493,
+      "locationId": 681,
+      "startsAt": "2025-09-23T12:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61005
+      ],
+      "titles": [
+        "Krótki film o zabijaniu"
+      ],
+      "contestId": 2479,
+      "locationId": 681,
+      "startsAt": "2025-09-23T15:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61785
+      ],
+      "titles": [
+        "Gość"
+      ],
+      "contestId": 1504,
+      "locationId": 681,
+      "startsAt": "2025-09-23T18:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61262
+      ],
+      "titles": [
+        "Sanatorium pod Klepsydrą według Braci Quay"
+      ],
+      "contestId": 875,
+      "locationId": 681,
+      "startsAt": "2025-09-23T21:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-23T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-23T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-23T15:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-23T17:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-23T19:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-23T22:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-23T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-23T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-23T14:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-23T17:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-23T19:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-23T22:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-23T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-23T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 2460,
+      "locationId": 686,
+      "startsAt": "2025-09-23T13:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59786,
+        59973,
+        59820,
+        59916,
+        59924
+      ],
+      "titles": [
+        "Bez reszty",
+        "Żabi śpiew",
+        "Fish and Chips",
+        "Pożegnanie z morzem",
+        "SLAP!!"
+      ],
+      "contestId": 2461,
+      "locationId": 686,
+      "startsAt": "2025-09-23T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59863,
+        59967,
+        59890,
+        59938,
+        59869
+      ],
+      "titles": [
+        "Jogurt",
+        "Wyspy",
+        "Nibylandex",
+        "Strach",
+        "Lucciola"
+      ],
+      "contestId": 2461,
+      "locationId": 686,
+      "startsAt": "2025-09-23T19:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-23T22:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        62077
+      ],
+      "titles": [
+        "O psie, który jeździł koleją 2"
+      ],
+      "contestId": 1492,
+      "locationId": 687,
+      "startsAt": "2025-09-23T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60938
+      ],
+      "titles": [
+        "Skarbek i tajemnica magicznego sreberka"
+      ],
+      "contestId": 1492,
+      "locationId": 687,
+      "startsAt": "2025-09-23T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-23T15:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-23T18:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-23T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-23T22:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-23T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-23T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-23T15:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-23T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-23T19:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-23T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-23T08:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-23T11:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-23T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-23T16:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-23T18:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-23T20:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-23T22:40:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-23T09:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-23T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-23T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-23T16:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-23T18:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-23T21:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-23T09:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-23T12:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-23T14:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-23T16:40:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-23T19:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-23T21:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        63648
+      ],
+      "titles": [
+        "Rękopis znaleziony w Saragossie - pokaz filmu z muzyką na żywo"
+      ],
+      "contestId": 2509,
+      "locationId": 2508,
+      "startsAt": "2025-09-23T18:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-24T08:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-24T11:15:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-24T13:15:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-24T16:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-24T19:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-24T21:45:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        59863,
+        59967,
+        59890,
+        59938,
+        59869
+      ],
+      "titles": [
+        "Jogurt",
+        "Wyspy",
+        "Nibylandex",
+        "Strach",
+        "Lucciola"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-24T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59902,
+        59814,
+        59944,
+        59909,
+        59961
+      ],
+      "titles": [
+        "Patrzę w niebo",
+        "Dickflip",
+        "Szmonces o Dybuku",
+        "Po prostu",
+        "tłum. it's okay to be quiet"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-24T11:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59786,
+        59973,
+        59820,
+        59916,
+        59924
+      ],
+      "titles": [
+        "Bez reszty",
+        "Żabi śpiew",
+        "Fish and Chips",
+        "Pożegnanie z morzem",
+        "SLAP!!"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-24T13:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        62053
+      ],
+      "titles": [
+        "Zmęczone"
+      ],
+      "contestId": 888,
+      "locationId": 691,
+      "startsAt": "2025-09-24T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59850,
+        59829,
+        59857,
+        59931,
+        59883,
+        59768
+      ],
+      "titles": [
+        "Jagody",
+        "Fuck them all",
+        "Jak się odkochać",
+        "Soap Opera",
+        "Navidad de Marga",
+        "Asomia"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-24T18:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59786,
+        59973,
+        59820,
+        59916,
+        59924
+      ],
+      "titles": [
+        "Bez reszty",
+        "Żabi śpiew",
+        "Fish and Chips",
+        "Pożegnanie z morzem",
+        "SLAP!!"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-24T21:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-24T09:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        59956,
+        59950,
+        59896,
+        59844,
+        59837
+      ],
+      "titles": [
+        "Taty nie ma",
+        "Szumy i fonie",
+        "Nigdy nie znikasz",
+        "Houdini",
+        "Glitter"
+      ],
+      "contestId": 2450,
+      "locationId": 682,
+      "startsAt": "2025-09-24T10:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-24T14:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        59876,
+        59978,
+        59794,
+        59983,
+        59775,
+        59805
+      ],
+      "titles": [
+        "Ludzie i rzeczy",
+        "Zwyczaje pingwinów",
+        "Bliżej",
+        "zza szyby podglądam jak umiera sarna, młoda",
+        "Bazarowe Love",
+        "Ćwiartka"
+      ],
+      "contestId": 2450,
+      "locationId": 682,
+      "startsAt": "2025-09-24T16:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-24T20:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-24T22:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61813
+      ],
+      "titles": [
+        "Pasażer Andrzej Munk"
+      ],
+      "contestId": 2468,
+      "locationId": 681,
+      "startsAt": "2025-09-24T10:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60853,
+        60817
+      ],
+      "titles": [
+        "Awatar, czyli zamiana dusz",
+        "Ja gorę!"
+      ],
+      "contestId": 1493,
+      "locationId": 681,
+      "startsAt": "2025-09-24T13:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61002,
+        60973
+      ],
+      "titles": [
+        "Rysopis",
+        "Walkower"
+      ],
+      "contestId": 2451,
+      "locationId": 681,
+      "startsAt": "2025-09-24T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60992
+      ],
+      "titles": [
+        "Kallafiorr"
+      ],
+      "contestId": 2452,
+      "locationId": 681,
+      "startsAt": "2025-09-24T19:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-24T22:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-24T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-24T11:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-24T14:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-24T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-24T19:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-24T21:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-24T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-24T11:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        62038
+      ],
+      "titles": [
+        "Egzamin"
+      ],
+      "contestId": 888,
+      "locationId": 685,
+      "startsAt": "2025-09-24T13:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        62045
+      ],
+      "titles": [
+        "RZYM TO KABARET – kulisy produkcji musicalu"
+      ],
+      "contestId": 888,
+      "locationId": 685,
+      "startsAt": "2025-09-24T15:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-24T18:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-24T20:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-24T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-24T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-24T11:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-24T13:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 2460,
+      "locationId": 686,
+      "startsAt": "2025-09-24T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 2460,
+      "locationId": 686,
+      "startsAt": "2025-09-24T19:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-24T22:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60911
+      ],
+      "titles": [
+        "Skrzat. Nowy początek"
+      ],
+      "contestId": 1492,
+      "locationId": 687,
+      "startsAt": "2025-09-24T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-24T12:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-24T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-24T16:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-24T19:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-24T22:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-24T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-24T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-24T14:40:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-24T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-24T19:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-24T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-24T08:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-24T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-24T13:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-24T15:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-24T17:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-24T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-24T22:40:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-24T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-24T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-24T13:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-24T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-24T18:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-24T21:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-24T10:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-24T12:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-24T15:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-24T17:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-24T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-24T22:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-25T09:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-25T11:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-25T13:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-25T16:15:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-25T19:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-25T22:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        59850,
+        59829,
+        59857,
+        59931,
+        59883,
+        59768
+      ],
+      "titles": [
+        "Jagody",
+        "Fuck them all",
+        "Jak się odkochać",
+        "Soap Opera",
+        "Navidad de Marga",
+        "Asomia"
+      ],
+      "contestId": 2450,
+      "locationId": 679,
+      "startsAt": "2025-09-25T10:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 2459,
+      "locationId": 679,
+      "startsAt": "2025-09-25T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 2459,
+      "locationId": 679,
+      "startsAt": "2025-09-25T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 2459,
+      "locationId": 679,
+      "startsAt": "2025-09-25T20:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59863,
+        59967,
+        59890,
+        59938,
+        59869
+      ],
+      "titles": [
+        "Jogurt",
+        "Wyspy",
+        "Nibylandex",
+        "Strach",
+        "Lucciola"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-25T10:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        63238
+      ],
+      "titles": [
+        "Masterclass Ewy Braun"
+      ],
+      "contestId": 1943,
+      "locationId": 691,
+      "startsAt": "2025-09-25T13:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        63241
+      ],
+      "titles": [
+        "Debata „Pół wieku i co dalej: Dokąd zmierza polskie kino? FPFF x EKRANY"
+      ],
+      "contestId": 2509,
+      "locationId": 691,
+      "startsAt": "2025-09-25T15:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        59902,
+        59814,
+        59944,
+        59909,
+        59961
+      ],
+      "titles": [
+        "Patrzę w niebo",
+        "Dickflip",
+        "Szmonces o Dybuku",
+        "Po prostu",
+        "tłum. it's okay to be quiet"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-25T18:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59956,
+        59950,
+        59896,
+        59844,
+        59837
+      ],
+      "titles": [
+        "Taty nie ma",
+        "Szumy i fonie",
+        "Nigdy nie znikasz",
+        "Houdini",
+        "Glitter"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-25T20:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-25T09:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-25T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-25T13:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-25T15:15:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-25T17:15:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-25T19:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-25T21:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61066
+      ],
+      "titles": [
+        "Ogród Luizy"
+      ],
+      "contestId": 2408,
+      "locationId": 681,
+      "startsAt": "2025-09-25T10:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61571
+      ],
+      "titles": [
+        "Mama"
+      ],
+      "contestId": 875,
+      "locationId": 681,
+      "startsAt": "2025-09-25T12:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61821
+      ],
+      "titles": [
+        "Rysopis znaleziony po latach. Wojciech Jerzy Has"
+      ],
+      "contestId": 2468,
+      "locationId": 681,
+      "startsAt": "2025-09-25T15:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61254
+      ],
+      "titles": [
+        "Bądź wola moja"
+      ],
+      "contestId": 875,
+      "locationId": 681,
+      "startsAt": "2025-09-25T17:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61054
+      ],
+      "titles": [
+        "Sztuczki"
+      ],
+      "contestId": 2408,
+      "locationId": 681,
+      "startsAt": "2025-09-25T21:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-25T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-25T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-25T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-25T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-25T19:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-25T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-25T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-25T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-25T13:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59786,
+        59973,
+        59820,
+        59916,
+        59924
+      ],
+      "titles": [
+        "Bez reszty",
+        "Żabi śpiew",
+        "Fish and Chips",
+        "Pożegnanie z morzem",
+        "SLAP!!"
+      ],
+      "contestId": 889,
+      "locationId": 685,
+      "startsAt": "2025-09-25T15:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-25T18:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-25T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-25T22:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-25T09:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59956,
+        59950,
+        59896,
+        59844,
+        59837
+      ],
+      "titles": [
+        "Taty nie ma",
+        "Szumy i fonie",
+        "Nigdy nie znikasz",
+        "Houdini",
+        "Glitter"
+      ],
+      "contestId": 2461,
+      "locationId": 686,
+      "startsAt": "2025-09-25T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59876,
+        59978,
+        59794,
+        59983,
+        59775,
+        59805
+      ],
+      "titles": [
+        "Ludzie i rzeczy",
+        "Zwyczaje pingwinów",
+        "Bliżej",
+        "zza szyby podglądam jak umiera sarna, młoda",
+        "Bazarowe Love",
+        "Ćwiartka"
+      ],
+      "contestId": 2461,
+      "locationId": 686,
+      "startsAt": "2025-09-25T14:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 2460,
+      "locationId": 686,
+      "startsAt": "2025-09-25T17:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-25T21:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60929
+      ],
+      "titles": [
+        "Oskar, Patka i Złoto Bałtyku"
+      ],
+      "contestId": 1492,
+      "locationId": 687,
+      "startsAt": "2025-09-25T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-25T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-25T14:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-25T17:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-25T19:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-25T21:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-25T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-25T12:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-25T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-25T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-25T19:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-25T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-25T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-25T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-25T13:40:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-25T16:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-25T19:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-25T21:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-25T09:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-25T11:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-25T13:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61799
+      ],
+      "titles": [
+        "Silver"
+      ],
+      "contestId": 1504,
+      "locationId": 2435,
+      "startsAt": "2025-09-25T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-25T18:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-25T21:50:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-25T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-25T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-25T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-25T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-25T18:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-25T20:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-25T22:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 680,
+      "startsAt": "2025-09-26T08:45:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-26T11:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-26T13:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-26T16:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 2445,
+      "locationId": 680,
+      "startsAt": "2025-09-26T19:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 679,
+      "startsAt": "2025-09-26T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 2459,
+      "locationId": 679,
+      "startsAt": "2025-09-26T10:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59786,
+        59820,
+        59924,
+        59973,
+        59916
+      ],
+      "titles": [
+        "Bez reszty",
+        "Fish and Chips",
+        "SLAP!!",
+        "Żabi śpiew",
+        "Pożegnanie z morzem"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-26T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59837,
+        59956,
+        59950,
+        59896,
+        59844
+      ],
+      "titles": [
+        "Glitter",
+        "Taty nie ma",
+        "Szumy i fonie",
+        "Nigdy nie znikasz",
+        "Houdini"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-26T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59902,
+        59814,
+        59944,
+        59909,
+        59961
+      ],
+      "titles": [
+        "Patrzę w niebo",
+        "Dickflip",
+        "Szmonces o Dybuku",
+        "Po prostu",
+        "tłum. it's okay to be quiet"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-26T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59876,
+        59978,
+        59794,
+        59983,
+        59775,
+        59805
+      ],
+      "titles": [
+        "Ludzie i rzeczy",
+        "Zwyczaje pingwinów",
+        "Bliżej",
+        "zza szyby podglądam jak umiera sarna, młoda",
+        "Bazarowe Love",
+        "Ćwiartka"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-26T16:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59850,
+        59829,
+        59857,
+        59883,
+        59768
+      ],
+      "titles": [
+        "Jagody",
+        "Fuck them all",
+        "Jak się odkochać",
+        "Navidad de Marga",
+        "Asomia"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-26T18:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59863,
+        59967,
+        59890,
+        59938,
+        59869
+      ],
+      "titles": [
+        "Jogurt",
+        "Wyspy",
+        "Nibylandex",
+        "Strach",
+        "Lucciola"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-26T21:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-26T09:00:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-26T11:30:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 2449,
+      "locationId": 682,
+      "startsAt": "2025-09-26T13:45:00",
+      "accreditationOnly": true
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-26T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-26T18:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-26T20:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-26T22:35:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        63330
+      ],
+      "titles": [
+        "Konopielka"
+      ],
+      "contestId": 2463,
+      "locationId": 681,
+      "startsAt": "2025-09-26T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61806
+      ],
+      "titles": [
+        "Pasja według Agnieszki"
+      ],
+      "contestId": 2468,
+      "locationId": 681,
+      "startsAt": "2025-09-26T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60847
+      ],
+      "titles": [
+        "Szpital przemienienia"
+      ],
+      "contestId": 1493,
+      "locationId": 681,
+      "startsAt": "2025-09-26T13:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60841
+      ],
+      "titles": [
+        "Córki dancingu"
+      ],
+      "contestId": 1493,
+      "locationId": 681,
+      "startsAt": "2025-09-26T15:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61010,
+        61013
+      ],
+      "titles": [
+        "Człowiek magnes",
+        "Demon"
+      ],
+      "contestId": 2469,
+      "locationId": 681,
+      "startsAt": "2025-09-26T19:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-26T22:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-26T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-26T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-26T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-26T17:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-26T19:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-26T22:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-26T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 2460,
+      "locationId": 685,
+      "startsAt": "2025-09-26T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-26T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-26T18:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-26T20:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 1934,
+      "locationId": 685,
+      "startsAt": "2025-09-26T22:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59850,
+        59931,
+        59829,
+        59857,
+        59883,
+        59768
+      ],
+      "titles": [
+        "Jagody",
+        "Soap Opera",
+        "Fuck them all",
+        "Jak się odkochać",
+        "Navidad de Marga",
+        "Asomia"
+      ],
+      "contestId": 2461,
+      "locationId": 686,
+      "startsAt": "2025-09-26T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 2460,
+      "locationId": 686,
+      "startsAt": "2025-09-26T13:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-26T16:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-26T18:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-26T19:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-26T22:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60899
+      ],
+      "titles": [
+        "Dziadku, wiejemy!"
+      ],
+      "contestId": 1492,
+      "locationId": 687,
+      "startsAt": "2025-09-26T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-26T12:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-26T15:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61777
+      ],
+      "titles": [
+        "Pociągi"
+      ],
+      "contestId": 1504,
+      "locationId": 687,
+      "startsAt": "2025-09-26T18:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-26T21:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-26T22:40:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-26T09:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-26T11:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-26T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60997,
+        61044
+      ],
+      "titles": [
+        "Vabank",
+        "Żądło"
+      ],
+      "contestId": 1960,
+      "locationId": 688,
+      "startsAt": "2025-09-26T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-26T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-26T08:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-26T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-26T13:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-26T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-26T18:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-26T20:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-26T22:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-26T09:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-26T11:50:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-26T14:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-26T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-26T19:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-26T22:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-26T09:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-26T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-26T13:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-26T16:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-26T19:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-26T22:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 679,
+      "startsAt": "2025-09-27T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 679,
+      "startsAt": "2025-09-27T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 679,
+      "startsAt": "2025-09-27T14:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59837,
+        59956,
+        59950,
+        59896,
+        59844
+      ],
+      "titles": [
+        "Glitter",
+        "Taty nie ma",
+        "Szumy i fonie",
+        "Nigdy nie znikasz",
+        "Houdini"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-27T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59850,
+        59931,
+        59829,
+        59857,
+        59883,
+        59768
+      ],
+      "titles": [
+        "Jagody",
+        "Soap Opera",
+        "Fuck them all",
+        "Jak się odkochać",
+        "Navidad de Marga",
+        "Asomia"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-27T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        59863,
+        59967,
+        59890,
+        59938,
+        59869
+      ],
+      "titles": [
+        "Jogurt",
+        "Wyspy",
+        "Nibylandex",
+        "Strach",
+        "Lucciola"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-27T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        63244
+      ],
+      "titles": [
+        "Pokaz zwycięskich filmów krótkometrażowych"
+      ],
+      "contestId": 889,
+      "locationId": 691,
+      "startsAt": "2025-09-27T16:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-27T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-27T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-27T14:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 682,
+      "startsAt": "2025-09-27T16:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-27T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60837
+      ],
+      "titles": [
+        "Popiół i diament"
+      ],
+      "contestId": 1493,
+      "locationId": 681,
+      "startsAt": "2025-09-27T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        61051
+      ],
+      "titles": [
+        "Awans"
+      ],
+      "contestId": 2463,
+      "locationId": 681,
+      "startsAt": "2025-09-27T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 681,
+      "startsAt": "2025-09-27T17:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60175
+      ],
+      "titles": [
+        "Brat"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-27T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-27T11:50:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-27T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 683,
+      "startsAt": "2025-09-27T16:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60200
+      ],
+      "titles": [
+        "Dom dobry"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-27T09:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60372
+      ],
+      "titles": [
+        "CAPO"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-27T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60247
+      ],
+      "titles": [
+        "Vinci 2"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-27T14:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 685,
+      "startsAt": "2025-09-27T16:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60556
+      ],
+      "titles": [
+        "Północ Południe"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-27T09:10:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60606
+      ],
+      "titles": [
+        "Przepiękne!"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-27T11:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60507
+      ],
+      "titles": [
+        "13 dni do wakacji"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-27T13:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60543
+      ],
+      "titles": [
+        "Las"
+      ],
+      "contestId": 1934,
+      "locationId": 686,
+      "startsAt": "2025-09-27T15:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60378
+      ],
+      "titles": [
+        "Życie dla początkujących"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-27T10:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60188
+      ],
+      "titles": [
+        "Chopin, Chopin!"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-27T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60385
+      ],
+      "titles": [
+        "LARP. Miłość, trolle i inne questy"
+      ],
+      "contestId": 891,
+      "locationId": 687,
+      "startsAt": "2025-09-27T15:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60578
+      ],
+      "titles": [
+        "To się nie dzieje"
+      ],
+      "contestId": 1934,
+      "locationId": 687,
+      "startsAt": "2025-09-27T17:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60241
+      ],
+      "titles": [
+        "Trzy miłości"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-27T09:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60230
+      ],
+      "titles": [
+        "Nie ma duchów w mieszkaniu na Dobrej"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-27T11:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-27T13:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 688,
+      "startsAt": "2025-09-27T15:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-27T09:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60220
+      ],
+      "titles": [
+        "Klarnet"
+      ],
+      "contestId": 2466,
+      "locationId": 689,
+      "startsAt": "2025-09-27T11:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60225
+      ],
+      "titles": [
+        "Ministranci"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-27T13:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60259
+      ],
+      "titles": [
+        "Zamach na papieża"
+      ],
+      "contestId": 891,
+      "locationId": 689,
+      "startsAt": "2025-09-27T16:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60391
+      ],
+      "titles": [
+        "Światłoczuła"
+      ],
+      "contestId": 891,
+      "locationId": 2435,
+      "startsAt": "2025-09-27T09:20:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60518
+      ],
+      "titles": [
+        "Dziennik z wycieczki do Budapesztu"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-27T11:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60530
+      ],
+      "titles": [
+        "Glorious Summer"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-27T14:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60591
+      ],
+      "titles": [
+        "Zaprawdę Hitler umarł"
+      ],
+      "contestId": 1934,
+      "locationId": 2435,
+      "startsAt": "2025-09-27T16:15:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60236
+      ],
+      "titles": [
+        "Terytorium"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-27T09:45:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60253
+      ],
+      "titles": [
+        "Wielka Warszawska"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-27T12:00:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        60214
+      ],
+      "titles": [
+        "Franz Kafka"
+      ],
+      "contestId": 891,
+      "locationId": 2436,
+      "startsAt": "2025-09-27T14:30:00",
+      "accreditationOnly": false
+    },
+    {
+      "ids": [
+        63244
+      ],
+      "titles": [
+        "Pokaz zwycięskich filmów krótkometrażowych"
+      ],
+      "contestId": 889,
+      "locationId": 2436,
+      "startsAt": "2025-09-27T17:15:00",
+      "accreditationOnly": false
+    }
+  ]
+}

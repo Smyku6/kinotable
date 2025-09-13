@@ -1,0 +1,4734 @@
+[
+  {
+    "id": 62828,
+    "movieTitles": [
+      "Otwarcie Gdynia Dzieciom i pokaz filmu Skarbek i tajemnica magicznego sreberka"
+    ],
+    "contestId": 1933,
+    "placeId": 680,
+    "startsAt": "2025-09-22T09:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 62077,
+    "movieTitles": [
+      "O psie, który jeździł koleją 2"
+    ],
+    "contestId": 1933,
+    "placeId": 680,
+    "startsAt": "2025-09-22T13:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 62832,
+    "movieTitles": [
+      "Uroczystość Otwarcia Festiwalu i pokaz filmu Chopin, Chopin!"
+    ],
+    "contestId": 896,
+    "placeId": 680,
+    "startsAt": "2025-09-22T19:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-22T22:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 679,
+    "startsAt": "2025-09-22T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59786,
+      59973,
+      59820,
+      59916,
+      59924
+    ],
+    "movieTitles": [
+      "Bez reszty",
+      "Żabi śpiew",
+      "Fish and Chips",
+      "Pożegnanie z morzem",
+      "SLAP!!"
+    ],
+    "contestId": 2450,
+    "placeId": 679,
+    "startsAt": "2025-09-22T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59863,
+      59869,
+      59967,
+      59890,
+      59938
+    ],
+    "movieTitles": [
+      "Jogurt",
+      "Lucciola",
+      "Wyspy",
+      "Nibylandex",
+      "Strach"
+    ],
+    "contestId": 2450,
+    "placeId": 679,
+    "startsAt": "2025-09-22T13:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 2459,
+    "placeId": 679,
+    "startsAt": "2025-09-22T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 679,
+    "startsAt": "2025-09-22T19:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 679,
+    "startsAt": "2025-09-22T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59814,
+      59902,
+      59944,
+      59909,
+      59961
+    ],
+    "movieTitles": [
+      "Dickflip",
+      "Patrzę w niebo",
+      "Szmonces o Dybuku",
+      "Po prostu",
+      "tłum. it's okay to be quiet"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-22T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59876,
+      59978,
+      59794,
+      59983,
+      59775,
+      59805
+    ],
+    "movieTitles": [
+      "Ludzie i rzeczy",
+      "Zwyczaje pingwinów",
+      "Bliżej",
+      "zza szyby podglądam jak umiera sarna, młoda",
+      "Bazarowe Love",
+      "Ćwiartka"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-22T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59844,
+      59956,
+      59950,
+      59896,
+      59837
+    ],
+    "movieTitles": [
+      "Houdini",
+      "Taty nie ma",
+      "Szumy i fonie",
+      "Nigdy nie znikasz",
+      "Glitter"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-22T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59768,
+      59850,
+      59829,
+      59857,
+      59931,
+      59883
+    ],
+    "movieTitles": [
+      "Asomia",
+      "Jagody",
+      "Fuck them all",
+      "Jak się odkochać",
+      "Soap Opera",
+      "Navidad de Marga"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-22T16:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59814,
+      59902,
+      59944,
+      59909,
+      59961
+    ],
+    "movieTitles": [
+      "Dickflip",
+      "Patrzę w niebo",
+      "Szmonces o Dybuku",
+      "Po prostu",
+      "tłum. it's okay to be quiet"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-22T18:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59876,
+      59978,
+      59794,
+      59983,
+      59775,
+      59805
+    ],
+    "movieTitles": [
+      "Ludzie i rzeczy",
+      "Zwyczaje pingwinów",
+      "Bliżej",
+      "zza szyby podglądam jak umiera sarna, młoda",
+      "Bazarowe Love",
+      "Ćwiartka"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-22T21:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-22T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-22T11:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-22T15:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-22T17:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-22T20:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-22T22:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-22T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-22T10:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-22T12:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60821,
+    "movieTitles": [
+      "Nieciekawa historia"
+    ],
+    "contestId": 892,
+    "placeId": 681,
+    "startsAt": "2025-09-22T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-22T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61060,
+    "movieTitles": [
+      "Pora umierać"
+    ],
+    "contestId": 2408,
+    "placeId": 681,
+    "startsAt": "2025-09-22T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-22T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-22T10:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-22T12:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-22T15:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-22T17:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-22T19:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-22T22:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-22T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-22T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-22T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-22T16:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-22T19:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-22T21:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-22T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 2460,
+    "placeId": 686,
+    "startsAt": "2025-09-22T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59902,
+      59814,
+      59944,
+      59909,
+      59961
+    ],
+    "movieTitles": [
+      "Patrzę w niebo",
+      "Dickflip",
+      "Szmonces o Dybuku",
+      "Po prostu",
+      "tłum. it's okay to be quiet"
+    ],
+    "contestId": 2461,
+    "placeId": 686,
+    "startsAt": "2025-09-22T15:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-22T18:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-22T20:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-22T22:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61676,
+    "movieTitles": [
+      "Orzełek Iggy"
+    ],
+    "contestId": 1492,
+    "placeId": 687,
+    "startsAt": "2025-09-22T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-22T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-22T14:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-22T16:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-22T19:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-22T21:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59837,
+      59956,
+      59950,
+      59896,
+      59844
+    ],
+    "movieTitles": [
+      "Glitter",
+      "Taty nie ma",
+      "Szumy i fonie",
+      "Nigdy nie znikasz",
+      "Houdini"
+    ],
+    "contestId": 889,
+    "placeId": 688,
+    "startsAt": "2025-09-22T09:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-22T12:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-22T14:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-22T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-22T19:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-22T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-22T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-22T11:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 2460,
+    "placeId": 689,
+    "startsAt": "2025-09-22T14:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-22T17:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-22T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-22T22:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-22T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-22T11:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-22T13:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-22T15:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-22T17:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-22T19:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-22T21:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-22T10:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-22T12:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-22T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-22T17:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-22T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-22T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-23T09:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-23T11:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-23T13:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-23T16:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-23T19:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-23T22:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 679,
+    "startsAt": "2025-09-23T08:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59902,
+      59814,
+      59944,
+      59909,
+      59961
+    ],
+    "movieTitles": [
+      "Patrzę w niebo",
+      "Dickflip",
+      "Szmonces o Dybuku",
+      "Po prostu",
+      "tłum. it's okay to be quiet"
+    ],
+    "contestId": 2450,
+    "placeId": 679,
+    "startsAt": "2025-09-23T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 2459,
+    "placeId": 679,
+    "startsAt": "2025-09-23T13:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 2459,
+    "placeId": 679,
+    "startsAt": "2025-09-23T16:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 2459,
+    "placeId": 679,
+    "startsAt": "2025-09-23T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59786,
+      59973,
+      59820,
+      59916,
+      59924
+    ],
+    "movieTitles": [
+      "Bez reszty",
+      "Żabi śpiew",
+      "Fish and Chips",
+      "Pożegnanie z morzem",
+      "SLAP!!"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-23T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59863,
+      59967,
+      59890,
+      59938,
+      59869
+    ],
+    "movieTitles": [
+      "Jogurt",
+      "Wyspy",
+      "Nibylandex",
+      "Strach",
+      "Lucciola"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-23T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59876,
+      59978,
+      59794,
+      59983,
+      59775,
+      59805
+    ],
+    "movieTitles": [
+      "Ludzie i rzeczy",
+      "Zwyczaje pingwinów",
+      "Bliżej",
+      "zza szyby podglądam jak umiera sarna, młoda",
+      "Bazarowe Love",
+      "Ćwiartka"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-23T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 63021,
+    "movieTitles": [
+      "IO"
+    ],
+    "contestId": 2451,
+    "placeId": 691,
+    "startsAt": "2025-09-23T16:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59876,
+      59978,
+      59794,
+      59983,
+      59775,
+      59805
+    ],
+    "movieTitles": [
+      "Ludzie i rzeczy",
+      "Zwyczaje pingwinów",
+      "Bliżej",
+      "zza szyby podglądam jak umiera sarna, młoda",
+      "Bazarowe Love",
+      "Ćwiartka"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-23T19:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59850,
+      59829,
+      59857,
+      59931,
+      59883,
+      59768
+    ],
+    "movieTitles": [
+      "Jagody",
+      "Fuck them all",
+      "Jak się odkochać",
+      "Soap Opera",
+      "Navidad de Marga",
+      "Asomia"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-23T21:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-23T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-23T11:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-23T13:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-23T15:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-23T17:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-23T20:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-23T22:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61792,
+    "movieTitles": [
+      "Pod powierzchnią"
+    ],
+    "contestId": 1504,
+    "placeId": 681,
+    "startsAt": "2025-09-23T10:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61228,
+    "movieTitles": [
+      "Wrota Europy"
+    ],
+    "contestId": 1493,
+    "placeId": 681,
+    "startsAt": "2025-09-23T12:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61005,
+    "movieTitles": [
+      "Krótki film o zabijaniu"
+    ],
+    "contestId": 2479,
+    "placeId": 681,
+    "startsAt": "2025-09-23T15:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61785,
+    "movieTitles": [
+      "Gość"
+    ],
+    "contestId": 1504,
+    "placeId": 681,
+    "startsAt": "2025-09-23T18:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61262,
+    "movieTitles": [
+      "Sanatorium pod Klepsydrą według Braci Quay"
+    ],
+    "contestId": 875,
+    "placeId": 681,
+    "startsAt": "2025-09-23T21:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-23T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-23T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-23T15:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-23T17:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-23T19:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-23T22:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-23T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-23T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-23T14:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-23T17:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-23T19:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-23T22:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-23T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-23T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 2460,
+    "placeId": 686,
+    "startsAt": "2025-09-23T13:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59786,
+      59973,
+      59820,
+      59916,
+      59924
+    ],
+    "movieTitles": [
+      "Bez reszty",
+      "Żabi śpiew",
+      "Fish and Chips",
+      "Pożegnanie z morzem",
+      "SLAP!!"
+    ],
+    "contestId": 2461,
+    "placeId": 686,
+    "startsAt": "2025-09-23T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59863,
+      59967,
+      59890,
+      59938,
+      59869
+    ],
+    "movieTitles": [
+      "Jogurt",
+      "Wyspy",
+      "Nibylandex",
+      "Strach",
+      "Lucciola"
+    ],
+    "contestId": 2461,
+    "placeId": 686,
+    "startsAt": "2025-09-23T19:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-23T22:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 62077,
+    "movieTitles": [
+      "O psie, który jeździł koleją 2"
+    ],
+    "contestId": 1492,
+    "placeId": 687,
+    "startsAt": "2025-09-23T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60938,
+    "movieTitles": [
+      "Skarbek i tajemnica magicznego sreberka"
+    ],
+    "contestId": 1492,
+    "placeId": 687,
+    "startsAt": "2025-09-23T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-23T15:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-23T18:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-23T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-23T22:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-23T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-23T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-23T15:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-23T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-23T19:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-23T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-23T08:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-23T11:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-23T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-23T16:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-23T18:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-23T20:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-23T22:40:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-23T09:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-23T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-23T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-23T16:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-23T18:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-23T21:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-23T09:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-23T12:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-23T14:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-23T16:40:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-23T19:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-23T21:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 63648,
+    "movieTitles": [
+      "Rękopis znaleziony w Saragossie - pokaz filmu z muzyką na żywo"
+    ],
+    "contestId": 2509,
+    "placeId": 2508,
+    "startsAt": "2025-09-23T18:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-24T08:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-24T11:15:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-24T13:15:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-24T16:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-24T19:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-24T21:45:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": [
+      59863,
+      59967,
+      59890,
+      59938,
+      59869
+    ],
+    "movieTitles": [
+      "Jogurt",
+      "Wyspy",
+      "Nibylandex",
+      "Strach",
+      "Lucciola"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-24T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59902,
+      59814,
+      59944,
+      59909,
+      59961
+    ],
+    "movieTitles": [
+      "Patrzę w niebo",
+      "Dickflip",
+      "Szmonces o Dybuku",
+      "Po prostu",
+      "tłum. it's okay to be quiet"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-24T11:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59786,
+      59973,
+      59820,
+      59916,
+      59924
+    ],
+    "movieTitles": [
+      "Bez reszty",
+      "Żabi śpiew",
+      "Fish and Chips",
+      "Pożegnanie z morzem",
+      "SLAP!!"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-24T13:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 62053,
+    "movieTitles": [
+      "Zmęczone"
+    ],
+    "contestId": 888,
+    "placeId": 691,
+    "startsAt": "2025-09-24T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59850,
+      59829,
+      59857,
+      59931,
+      59883,
+      59768
+    ],
+    "movieTitles": [
+      "Jagody",
+      "Fuck them all",
+      "Jak się odkochać",
+      "Soap Opera",
+      "Navidad de Marga",
+      "Asomia"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-24T18:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59786,
+      59973,
+      59820,
+      59916,
+      59924
+    ],
+    "movieTitles": [
+      "Bez reszty",
+      "Żabi śpiew",
+      "Fish and Chips",
+      "Pożegnanie z morzem",
+      "SLAP!!"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-24T21:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-24T09:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": [
+      59956,
+      59950,
+      59896,
+      59844,
+      59837
+    ],
+    "movieTitles": [
+      "Taty nie ma",
+      "Szumy i fonie",
+      "Nigdy nie znikasz",
+      "Houdini",
+      "Glitter"
+    ],
+    "contestId": 2450,
+    "placeId": 682,
+    "startsAt": "2025-09-24T10:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-24T14:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": [
+      59876,
+      59978,
+      59794,
+      59983,
+      59775,
+      59805
+    ],
+    "movieTitles": [
+      "Ludzie i rzeczy",
+      "Zwyczaje pingwinów",
+      "Bliżej",
+      "zza szyby podglądam jak umiera sarna, młoda",
+      "Bazarowe Love",
+      "Ćwiartka"
+    ],
+    "contestId": 2450,
+    "placeId": 682,
+    "startsAt": "2025-09-24T16:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-24T20:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-24T22:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61813,
+    "movieTitles": [
+      "Pasażer Andrzej Munk"
+    ],
+    "contestId": 2468,
+    "placeId": 681,
+    "startsAt": "2025-09-24T10:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      60853,
+      60817
+    ],
+    "movieTitles": [
+      "Awatar, czyli zamiana dusz",
+      "Ja gorę!"
+    ],
+    "contestId": 1493,
+    "placeId": 681,
+    "startsAt": "2025-09-24T13:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      61002,
+      60973
+    ],
+    "movieTitles": [
+      "Rysopis",
+      "Walkower"
+    ],
+    "contestId": 2451,
+    "placeId": 681,
+    "startsAt": "2025-09-24T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60992,
+    "movieTitles": [
+      "Kallafiorr"
+    ],
+    "contestId": 2452,
+    "placeId": 681,
+    "startsAt": "2025-09-24T19:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-24T22:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-24T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-24T11:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-24T14:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-24T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-24T19:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-24T21:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-24T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-24T11:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 62038,
+    "movieTitles": [
+      "Egzamin"
+    ],
+    "contestId": 888,
+    "placeId": 685,
+    "startsAt": "2025-09-24T13:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 62045,
+    "movieTitles": [
+      "RZYM TO KABARET – kulisy produkcji musicalu"
+    ],
+    "contestId": 888,
+    "placeId": 685,
+    "startsAt": "2025-09-24T15:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-24T18:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-24T20:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-24T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-24T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-24T11:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-24T13:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 2460,
+    "placeId": 686,
+    "startsAt": "2025-09-24T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 2460,
+    "placeId": 686,
+    "startsAt": "2025-09-24T19:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-24T22:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60911,
+    "movieTitles": [
+      "Skrzat. Nowy początek"
+    ],
+    "contestId": 1492,
+    "placeId": 687,
+    "startsAt": "2025-09-24T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-24T12:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-24T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-24T16:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-24T19:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-24T22:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-24T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-24T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-24T14:40:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-24T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-24T19:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-24T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-24T08:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-24T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-24T13:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-24T15:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-24T17:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-24T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-24T22:40:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-24T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-24T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-24T13:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-24T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-24T18:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-24T21:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-24T10:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-24T12:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-24T15:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-24T17:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-24T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-24T22:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-25T09:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-25T11:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-25T13:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-25T16:15:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-25T19:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-25T22:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": [
+      59850,
+      59829,
+      59857,
+      59931,
+      59883,
+      59768
+    ],
+    "movieTitles": [
+      "Jagody",
+      "Fuck them all",
+      "Jak się odkochać",
+      "Soap Opera",
+      "Navidad de Marga",
+      "Asomia"
+    ],
+    "contestId": 2450,
+    "placeId": 679,
+    "startsAt": "2025-09-25T10:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 2459,
+    "placeId": 679,
+    "startsAt": "2025-09-25T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 2459,
+    "placeId": 679,
+    "startsAt": "2025-09-25T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 2459,
+    "placeId": 679,
+    "startsAt": "2025-09-25T20:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59863,
+      59967,
+      59890,
+      59938,
+      59869
+    ],
+    "movieTitles": [
+      "Jogurt",
+      "Wyspy",
+      "Nibylandex",
+      "Strach",
+      "Lucciola"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-25T10:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 63238,
+    "movieTitles": [
+      "Masterclass Ewy Braun"
+    ],
+    "contestId": 1943,
+    "placeId": 691,
+    "startsAt": "2025-09-25T13:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 63241,
+    "movieTitles": [
+      "Debata „Pół wieku i co dalej: Dokąd zmierza polskie kino? FPFF x EKRANY"
+    ],
+    "contestId": 2509,
+    "placeId": 691,
+    "startsAt": "2025-09-25T15:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": [
+      59902,
+      59814,
+      59944,
+      59909,
+      59961
+    ],
+    "movieTitles": [
+      "Patrzę w niebo",
+      "Dickflip",
+      "Szmonces o Dybuku",
+      "Po prostu",
+      "tłum. it's okay to be quiet"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-25T18:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59956,
+      59950,
+      59896,
+      59844,
+      59837
+    ],
+    "movieTitles": [
+      "Taty nie ma",
+      "Szumy i fonie",
+      "Nigdy nie znikasz",
+      "Houdini",
+      "Glitter"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-25T20:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-25T09:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-25T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-25T13:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-25T15:15:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-25T17:15:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-25T19:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-25T21:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61066,
+    "movieTitles": [
+      "Ogród Luizy"
+    ],
+    "contestId": 2408,
+    "placeId": 681,
+    "startsAt": "2025-09-25T10:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61571,
+    "movieTitles": [
+      "Mama"
+    ],
+    "contestId": 875,
+    "placeId": 681,
+    "startsAt": "2025-09-25T12:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61821,
+    "movieTitles": [
+      "Rysopis znaleziony po latach. Wojciech Jerzy Has"
+    ],
+    "contestId": 2468,
+    "placeId": 681,
+    "startsAt": "2025-09-25T15:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61254,
+    "movieTitles": [
+      "Bądź wola moja"
+    ],
+    "contestId": 875,
+    "placeId": 681,
+    "startsAt": "2025-09-25T17:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61054,
+    "movieTitles": [
+      "Sztuczki"
+    ],
+    "contestId": 2408,
+    "placeId": 681,
+    "startsAt": "2025-09-25T21:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-25T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-25T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-25T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-25T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-25T19:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-25T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-25T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-25T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-25T13:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59786,
+      59973,
+      59820,
+      59916,
+      59924
+    ],
+    "movieTitles": [
+      "Bez reszty",
+      "Żabi śpiew",
+      "Fish and Chips",
+      "Pożegnanie z morzem",
+      "SLAP!!"
+    ],
+    "contestId": 889,
+    "placeId": 685,
+    "startsAt": "2025-09-25T15:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-25T18:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-25T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-25T22:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-25T09:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59956,
+      59950,
+      59896,
+      59844,
+      59837
+    ],
+    "movieTitles": [
+      "Taty nie ma",
+      "Szumy i fonie",
+      "Nigdy nie znikasz",
+      "Houdini",
+      "Glitter"
+    ],
+    "contestId": 2461,
+    "placeId": 686,
+    "startsAt": "2025-09-25T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59876,
+      59978,
+      59794,
+      59983,
+      59775,
+      59805
+    ],
+    "movieTitles": [
+      "Ludzie i rzeczy",
+      "Zwyczaje pingwinów",
+      "Bliżej",
+      "zza szyby podglądam jak umiera sarna, młoda",
+      "Bazarowe Love",
+      "Ćwiartka"
+    ],
+    "contestId": 2461,
+    "placeId": 686,
+    "startsAt": "2025-09-25T14:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 2460,
+    "placeId": 686,
+    "startsAt": "2025-09-25T17:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-25T21:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60929,
+    "movieTitles": [
+      "Oskar, Patka i Złoto Bałtyku"
+    ],
+    "contestId": 1492,
+    "placeId": 687,
+    "startsAt": "2025-09-25T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-25T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-25T14:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-25T17:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-25T19:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-25T21:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-25T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-25T12:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-25T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-25T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-25T19:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-25T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-25T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-25T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-25T13:40:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-25T16:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-25T19:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-25T21:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-25T09:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-25T11:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-25T13:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61799,
+    "movieTitles": [
+      "Silver"
+    ],
+    "contestId": 1504,
+    "placeId": 2435,
+    "startsAt": "2025-09-25T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-25T18:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-25T21:50:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-25T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-25T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-25T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-25T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-25T18:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-25T20:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-25T22:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 680,
+    "startsAt": "2025-09-26T08:45:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-26T11:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-26T13:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-26T16:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 2445,
+    "placeId": 680,
+    "startsAt": "2025-09-26T19:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 679,
+    "startsAt": "2025-09-26T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 2459,
+    "placeId": 679,
+    "startsAt": "2025-09-26T10:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59786,
+      59820,
+      59924,
+      59973,
+      59916
+    ],
+    "movieTitles": [
+      "Bez reszty",
+      "Fish and Chips",
+      "SLAP!!",
+      "Żabi śpiew",
+      "Pożegnanie z morzem"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-26T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59837,
+      59956,
+      59950,
+      59896,
+      59844
+    ],
+    "movieTitles": [
+      "Glitter",
+      "Taty nie ma",
+      "Szumy i fonie",
+      "Nigdy nie znikasz",
+      "Houdini"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-26T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59902,
+      59814,
+      59944,
+      59909,
+      59961
+    ],
+    "movieTitles": [
+      "Patrzę w niebo",
+      "Dickflip",
+      "Szmonces o Dybuku",
+      "Po prostu",
+      "tłum. it's okay to be quiet"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-26T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59876,
+      59978,
+      59794,
+      59983,
+      59775,
+      59805
+    ],
+    "movieTitles": [
+      "Ludzie i rzeczy",
+      "Zwyczaje pingwinów",
+      "Bliżej",
+      "zza szyby podglądam jak umiera sarna, młoda",
+      "Bazarowe Love",
+      "Ćwiartka"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-26T16:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59850,
+      59829,
+      59857,
+      59883,
+      59768
+    ],
+    "movieTitles": [
+      "Jagody",
+      "Fuck them all",
+      "Jak się odkochać",
+      "Navidad de Marga",
+      "Asomia"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-26T18:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59863,
+      59967,
+      59890,
+      59938,
+      59869
+    ],
+    "movieTitles": [
+      "Jogurt",
+      "Wyspy",
+      "Nibylandex",
+      "Strach",
+      "Lucciola"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-26T21:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-26T09:00:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-26T11:30:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 2449,
+    "placeId": 682,
+    "startsAt": "2025-09-26T13:45:00",
+    "accreditationNeeded": true
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-26T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-26T18:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-26T20:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-26T22:35:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 63330,
+    "movieTitles": [
+      "Konopielka"
+    ],
+    "contestId": 2463,
+    "placeId": 681,
+    "startsAt": "2025-09-26T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61806,
+    "movieTitles": [
+      "Pasja według Agnieszki"
+    ],
+    "contestId": 2468,
+    "placeId": 681,
+    "startsAt": "2025-09-26T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60847,
+    "movieTitles": [
+      "Szpital przemienienia"
+    ],
+    "contestId": 1493,
+    "placeId": 681,
+    "startsAt": "2025-09-26T13:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60841,
+    "movieTitles": [
+      "Córki dancingu"
+    ],
+    "contestId": 1493,
+    "placeId": 681,
+    "startsAt": "2025-09-26T15:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      61010,
+      61013
+    ],
+    "movieTitles": [
+      "Człowiek magnes",
+      "Demon"
+    ],
+    "contestId": 2469,
+    "placeId": 681,
+    "startsAt": "2025-09-26T19:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-26T22:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-26T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-26T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-26T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-26T17:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-26T19:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-26T22:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-26T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 2460,
+    "placeId": 685,
+    "startsAt": "2025-09-26T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-26T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-26T18:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-26T20:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 1934,
+    "placeId": 685,
+    "startsAt": "2025-09-26T22:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59850,
+      59931,
+      59829,
+      59857,
+      59883,
+      59768
+    ],
+    "movieTitles": [
+      "Jagody",
+      "Soap Opera",
+      "Fuck them all",
+      "Jak się odkochać",
+      "Navidad de Marga",
+      "Asomia"
+    ],
+    "contestId": 2461,
+    "placeId": 686,
+    "startsAt": "2025-09-26T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 2460,
+    "placeId": 686,
+    "startsAt": "2025-09-26T13:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-26T16:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-26T18:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-26T19:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-26T22:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60899,
+    "movieTitles": [
+      "Dziadku, wiejemy!"
+    ],
+    "contestId": 1492,
+    "placeId": 687,
+    "startsAt": "2025-09-26T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-26T12:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-26T15:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61777,
+    "movieTitles": [
+      "Pociągi"
+    ],
+    "contestId": 1504,
+    "placeId": 687,
+    "startsAt": "2025-09-26T18:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-26T21:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-26T22:40:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-26T09:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-26T11:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-26T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      60997,
+      61044
+    ],
+    "movieTitles": [
+      "Vabank",
+      "Żądło"
+    ],
+    "contestId": 1960,
+    "placeId": 688,
+    "startsAt": "2025-09-26T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-26T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-26T08:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-26T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-26T13:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-26T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-26T18:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-26T20:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-26T22:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-26T09:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-26T11:50:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-26T14:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-26T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-26T19:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-26T22:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-26T09:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-26T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-26T13:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-26T16:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-26T19:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-26T22:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 679,
+    "startsAt": "2025-09-27T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 679,
+    "startsAt": "2025-09-27T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 679,
+    "startsAt": "2025-09-27T14:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59837,
+      59956,
+      59950,
+      59896,
+      59844
+    ],
+    "movieTitles": [
+      "Glitter",
+      "Taty nie ma",
+      "Szumy i fonie",
+      "Nigdy nie znikasz",
+      "Houdini"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-27T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59850,
+      59931,
+      59829,
+      59857,
+      59883,
+      59768
+    ],
+    "movieTitles": [
+      "Jagody",
+      "Soap Opera",
+      "Fuck them all",
+      "Jak się odkochać",
+      "Navidad de Marga",
+      "Asomia"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-27T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": [
+      59863,
+      59967,
+      59890,
+      59938,
+      59869
+    ],
+    "movieTitles": [
+      "Jogurt",
+      "Wyspy",
+      "Nibylandex",
+      "Strach",
+      "Lucciola"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-27T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 63244,
+    "movieTitles": [
+      "Pokaz zwycięskich filmów krótkometrażowych"
+    ],
+    "contestId": 889,
+    "placeId": 691,
+    "startsAt": "2025-09-27T16:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-27T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-27T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-27T14:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 682,
+    "startsAt": "2025-09-27T16:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-27T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60837,
+    "movieTitles": [
+      "Popiół i diament"
+    ],
+    "contestId": 1493,
+    "placeId": 681,
+    "startsAt": "2025-09-27T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 61051,
+    "movieTitles": [
+      "Awans"
+    ],
+    "contestId": 2463,
+    "placeId": 681,
+    "startsAt": "2025-09-27T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 681,
+    "startsAt": "2025-09-27T17:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60175,
+    "movieTitles": [
+      "Brat"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-27T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-27T11:50:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-27T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 683,
+    "startsAt": "2025-09-27T16:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60200,
+    "movieTitles": [
+      "Dom dobry"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-27T09:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60372,
+    "movieTitles": [
+      "CAPO"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-27T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60247,
+    "movieTitles": [
+      "Vinci 2"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-27T14:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 685,
+    "startsAt": "2025-09-27T16:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60556,
+    "movieTitles": [
+      "Północ Południe"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-27T09:10:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60606,
+    "movieTitles": [
+      "Przepiękne!"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-27T11:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60507,
+    "movieTitles": [
+      "13 dni do wakacji"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-27T13:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60543,
+    "movieTitles": [
+      "Las"
+    ],
+    "contestId": 1934,
+    "placeId": 686,
+    "startsAt": "2025-09-27T15:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60378,
+    "movieTitles": [
+      "Życie dla początkujących"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-27T10:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60188,
+    "movieTitles": [
+      "Chopin, Chopin!"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-27T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60385,
+    "movieTitles": [
+      "LARP. Miłość, trolle i inne questy"
+    ],
+    "contestId": 891,
+    "placeId": 687,
+    "startsAt": "2025-09-27T15:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60578,
+    "movieTitles": [
+      "To się nie dzieje"
+    ],
+    "contestId": 1934,
+    "placeId": 687,
+    "startsAt": "2025-09-27T17:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60241,
+    "movieTitles": [
+      "Trzy miłości"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-27T09:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60230,
+    "movieTitles": [
+      "Nie ma duchów w mieszkaniu na Dobrej"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-27T11:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-27T13:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 688,
+    "startsAt": "2025-09-27T15:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-27T09:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60220,
+    "movieTitles": [
+      "Klarnet"
+    ],
+    "contestId": 2466,
+    "placeId": 689,
+    "startsAt": "2025-09-27T11:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60225,
+    "movieTitles": [
+      "Ministranci"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-27T13:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60259,
+    "movieTitles": [
+      "Zamach na papieża"
+    ],
+    "contestId": 891,
+    "placeId": 689,
+    "startsAt": "2025-09-27T16:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60391,
+    "movieTitles": [
+      "Światłoczuła"
+    ],
+    "contestId": 891,
+    "placeId": 2435,
+    "startsAt": "2025-09-27T09:20:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60518,
+    "movieTitles": [
+      "Dziennik z wycieczki do Budapesztu"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-27T11:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60530,
+    "movieTitles": [
+      "Glorious Summer"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-27T14:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60591,
+    "movieTitles": [
+      "Zaprawdę Hitler umarł"
+    ],
+    "contestId": 1934,
+    "placeId": 2435,
+    "startsAt": "2025-09-27T16:15:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60236,
+    "movieTitles": [
+      "Terytorium"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-27T09:45:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60253,
+    "movieTitles": [
+      "Wielka Warszawska"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-27T12:00:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 60214,
+    "movieTitles": [
+      "Franz Kafka"
+    ],
+    "contestId": 891,
+    "placeId": 2436,
+    "startsAt": "2025-09-27T14:30:00",
+    "accreditationNeeded": false
+  },
+  {
+    "id": 63244,
+    "movieTitles": [
+      "Pokaz zwycięskich filmów krótkometrażowych"
+    ],
+    "contestId": 889,
+    "placeId": 2436,
+    "startsAt": "2025-09-27T17:15:00",
+    "accreditationNeeded": false
+  }
+]
