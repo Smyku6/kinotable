@@ -256,7 +256,7 @@ async function main() {
 
         // Building stringId
         const timePart = new Date(screening.startsAt).getTime();
-        const movieIdsPart = movieIds.join();
+        const movieIdsPart = movieIds.join('');
 
         return {
             id: Number(`${timePart}${screening.placeId}${screening.contestId}${movieIdsPart}`),
