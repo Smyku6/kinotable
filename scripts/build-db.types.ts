@@ -11,7 +11,7 @@ export type MovieOutput = {
 };
 
 export type ScreeningOutput = {
-    id: number;
+    id: string;
     movieIds: number[];
     contestId: number | null;
     locationId: number | null;

@@ -240,7 +240,7 @@ async function main() {
         const movieIdsPart = movieIds.join('');
 
         return {
-            id: Number(`${timePart}${screening.placeId}${screening.contestId}${movieIdsPart}`),
+            id: (`${timePart}${screening.placeId}${screening.contestId}${movieIdsPart}`),
             movieIds: movieIds,
             contestId: screening.contestId ?? null,
             locationId: screening.placeId ?? null,
