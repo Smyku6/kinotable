@@ -93,7 +93,7 @@ export function MovieGrid({ db, movieIds }: { db: Db; movieIds?: number[] }) {
         }
 
         // Sekcje: najpierw filtr (tylko widoczne) + "Bez sekcji"
-        let arr = Array.from(map.values()).filter(
+        const arr = Array.from(map.values()).filter(
             (g) => g.key === "__none__" || g.visible
         );
 
