@@ -1,0 +1,150 @@
+{
+  "$version": 1,
+  "items": {
+    "875": {
+      "order": 5,
+      "name": "Polonica",
+      "isVisibleInFilters": false
+    },
+    "888": {
+      "order": 70,
+      "name": "Filmy z Gdyni",
+      "isVisibleInFilters": false
+    },
+    "889": {
+      "order": 2,
+      "name": "Konkurs Filmów Krótkometrażowych",
+      "isVisibleInFilters": true
+    },
+    "891": {
+      "order": 1,
+      "name": "Konkurs Główny",
+      "isVisibleInFilters": true
+    },
+    "892": {
+      "order": 260,
+      "name": "Pokaz filmu Laureata Platynowych Lwów",
+      "isVisibleInFilters": false
+    },
+    "896": {
+      "order": 60,
+      "name": "Film otwarcia",
+      "isVisibleInFilters": false
+    },
+    "1492": {
+      "order": 250,
+      "name": "Nagroda Złote Lwiątka im. Janusza Korczaka",
+      "isVisibleInFilters": false
+    },
+    "1493": {
+      "order": 4,
+      "name": "Mistrzowska Piątka",
+      "isVisibleInFilters": false
+    },
+    "1504": {
+      "order": 6,
+      "name": "Dokument w Gdyni",
+      "isVisibleInFilters": false
+    },
+    "1933": {
+      "order": 90,
+      "name": "Gdynia dzieciom",
+      "isVisibleInFilters": false
+    },
+    "1934": {
+      "order": 3,
+      "name": "Konkurs Perspektywy",
+      "isVisibleInFilters": true
+    },
+    "1943": {
+      "order": 230,
+      "name": "Masterclass Laureata Platynowych Lwów",
+      "isVisibleInFilters": false
+    },
+    "1960": {
+      "order": 80,
+      "name": "FINA Podwójne uderzenie",
+      "isVisibleInFilters": false
+    },
+    "2408": {
+      "order": 20,
+      "name": "20 lat PISF: Sesja pierwsza",
+      "isVisibleInFilters": false
+    },
+    "2445": {
+      "order": 180,
+      "name": "Konkurs Główny - uroczysty pokaz",
+      "isVisibleInFilters": false
+    },
+    "2449": {
+      "order": 160,
+      "name": "Konkurs Główny - pokaz prasowy",
+      "isVisibleInFilters": false
+    },
+    "2450": {
+      "order": 140,
+      "name": "Konkurs Filmów Krótkometrażowych - uroczysty pokaz",
+      "isVisibleInFilters": false
+    },
+    "2451": {
+      "order": 10,
+      "name": "100 lat FIPRESCI",
+      "isVisibleInFilters": false
+    },
+    "2452": {
+      "order": 110,
+      "name": "Kino offowe w Gdyni",
+      "isVisibleInFilters": false
+    },
+    "2458": {
+      "order": 100,
+      "name": "Gdynia dzieciom - spotkanie z twórcami",
+      "isVisibleInFilters": false
+    },
+    "2459": {
+      "order": 210,
+      "name": "Konkurs Perspektywy - uroczysty pokaz",
+      "isVisibleInFilters": false
+    },
+    "2460": {
+      "order": 200,
+      "name": "Konkurs Perspektywy - spotkanie z twórcami",
+      "isVisibleInFilters": false
+    },
+    "2461": {
+      "order": 130,
+      "name": "Konkurs Filmów Krótkometrażowych - spotkanie z twórcami",
+      "isVisibleInFilters": false
+    },
+    "2463": {
+      "order": 280,
+      "name": "Redliński x 2",
+      "isVisibleInFilters": false
+    },
+    "2466": {
+      "order": 170,
+      "name": "Konkurs Główny - spotkanie z twórcami",
+      "isVisibleInFilters": false
+    },
+    "2468": {
+      "order": 40,
+      "name": "Dokument w Gdyni - Portrety",
+      "isVisibleInFilters": false
+    },
+    "2469": {
+      "order": 220,
+      "name": "Marcin Wrona 10 lat później",
+      "isVisibleInFilters": false
+    },
+    "2479": {
+      "order": 50,
+      "name": "Europejska Akademia Filmowa - Pierwsza nagroda",
+      "isVisibleInFilters": false
+    },
+    "2509": {
+      "order": 290,
+      "name": "Wydarzenia towarzyszące",
+      "isVisibleInFilters": false
+    }
+  }
+}
