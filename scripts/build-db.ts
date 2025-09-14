@@ -1,8 +1,8 @@
 /* eslint-disable no-console */
-import { promises as fs } from "node:fs";
 import path from "node:path";
 import { z } from "zod";
 import {Db, MovieOutput, ScreeningOutput} from "./build-db.types";
+import {readJson, readOrInitOverride, writeJson} from "./build-db.utils";
 
 function buildIndexes(db: Omit<Db, "indexes">) {
     const contestIdToMovieIdsSet = new Map<number, Set<number>>();
@@ -91,6 +91,17 @@ const ContestsSchema = z.array(
         contestName: z.string(),
     })
 );
+export const ContestsOverrideSchema = z.object({
+    $version: z.number().default(1),
+    items: z.record(
+        z.string(),
+        z.object({
+            isVisibleInFilters: z.boolean().optional(),
+            order: z.number().optional(),
+            name: z.string().optional(),
+        })
+    ).default({}),
+});
 
 // NOTE: screenings may contain either a single id (number) or multiple (number[])
 const ScreeningsSchema = z.array(
@@ -110,55 +121,15 @@ type MovieList = z.infer<typeof MovieListSchema>;
 type MoviesMeta = z.infer<typeof MoviesMetaSchema>;
 type Locations = z.infer<typeof LocationsSchema>;
 type Contests = z.infer<typeof ContestsSchema>;
+export type ContestsOverride = z.infer<typeof ContestsOverrideSchema>;
 type Screenings = z.infer<typeof ScreeningsSchema>;
 
 // ==============================
 // 4) Utilities
 // ==============================
-async function readJson<T>(filePath: string, schema: z.ZodType<T>): Promise<T> {
-    let raw: string;
-    try {
-        raw = await fs.readFile(filePath, "utf8");
-    } catch (e) {
-        console.error(`❌ Cannot read file: ${filePath}`);
-        throw e;
-    }
-
-    let json: unknown;
-    try {
-        json = JSON.parse(raw);
-    } catch (e: any) {
-        // Pretty diagnostic: show context around the error position if available
-        const msg = String(e?.message || e);
-        const m = msg.match(/position\s+(\d+)/i);
-        let ctx = "";
-        if (m) {
-            const pos = Number(m[1]);
-            const start = Math.max(0, pos - 80);
-            const end = Math.min(raw.length, pos + 80);
-            const snippet = raw.slice(start, end);
-            const caret = " ".repeat(Math.max(0, pos - start)) + "^";
-            ctx = `\n--- JSON context (~pos ${pos}) ---\n${snippet}\n${caret}\n-------------------------------`;
-        }
-        console.error(`❌ JSON.parse error in ${filePath}: ${msg}${ctx}`);
-        console.error("💡 Common causes: stray comma, comments, BOM, or multiple JSON objects concatenated.");
-        throw e;
-    }
-
-    const parsed = schema.safeParse(json);
-    if (!parsed.success) {
-        console.error(`❌ Schema error in ${filePath}`);
-        console.error(parsed.error.issues);
-        throw new Error(`Invalid JSON schema for ${path.basename(filePath)}`);
-    }
-    return parsed.data;
-}
 
 
-async function writeJson(filePath: string, data: unknown) {
-    await fs.mkdir(path.dirname(filePath), { recursive: true });
-    await fs.writeFile(filePath, JSON.stringify(data, null, 2) + "\n", "utf8");
-}
+
 
 /** Normalize directors to an array, keep null if unknown. */
 function toArrayString(input: string | string[] | null | undefined): string[] | null {
@@ -178,7 +149,10 @@ async function main() {
     const moviesMeta = await readJson<MoviesMeta>(path.join(RAW_DIR, "movies-meta.json"), MoviesMetaSchema);
     const locations = await readJson<Locations>(path.join(RAW_DIR, "locations.json"), LocationsSchema);
     const contests = await readJson<Contests>(path.join(RAW_DIR, "contests.json"), ContestsSchema);
+    const overrideContests = await readOrInitOverride(contests);
     const screenings = await readJson<Screenings>(path.join(RAW_DIR, "screenings.json"), ScreeningsSchema);
+
+
 
     // 5.2) Build helper maps for fast lookups
     //      id -> canonical title from movie-list.json
@@ -202,9 +176,16 @@ async function main() {
     }
 
     //      contestId -> { id, name } (as object map for O(1) lookup by string key)
-    const contestsById: Record<string, { id: number; name: string }> = {};
+    const contestsById: Record<string, { id: number; name: string; isVisibleInFilters?: boolean; order?: number }> = {};
     for (const c of contests) {
-        contestsById[String(c.contestId)] = { id: c.contestId, name: c.contestName };
+        const key = String(c.contestId);
+        const ov = overrideContests.items[key];
+        contestsById[key] = {
+            id: c.contestId,
+            name: ov?.name ?? c.contestName,
+            isVisibleInFilters: ov?.isVisibleInFilters ?? true,
+            order: ov?.order,
+        };
     }
 
     //      locationId -> { id, name }

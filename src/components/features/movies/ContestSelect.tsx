@@ -22,7 +22,7 @@ export function ContestSelect({ db }: { db: Db }) {
 
     // Sort contests once
     const contests = useMemo(() => {
-        const arr = Object.values(db.contestsById);
+        const arr = Object.values(db.contestsById).filter(c => c.isVisibleInFilters)
         arr.sort((a, b) => a.name.localeCompare(b.name, "pl", { sensitivity: "base" }));
         return arr;
     }, [db]);

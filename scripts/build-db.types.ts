@@ -23,7 +23,7 @@ export type Db = {
     $schemaVersion: string;
     generatedAt: string;
     moviesById: Record<string, MovieOutput>;
-    contestsById: Record<string, { id: number; name: string }>;
+    contestsById: Record<string, { id: number; name: string; isVisibleInFilters?: boolean; order?: number }>;
     locationsById: Record<string, { id: number; name: string }>;
     screenings: Array<ScreeningOutput>;
     indexes: {

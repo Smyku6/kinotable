@@ -1,6 +1,6 @@
 {
   "$schemaVersion": "1.0.0",
-  "generatedAt": "2025-09-14T19:43:27.560Z",
+  "generatedAt": "2025-09-14T20:40:27.943Z",
   "moviesById": {
     "59768": {
       "id": 59768,
@@ -921,119 +921,177 @@
   "contestsById": {
     "875": {
       "id": 875,
-      "name": "Polonica"
+      "name": "Polonica",
+      "isVisibleInFilters": false,
+      "order": 5
     },
     "888": {
       "id": 888,
-      "name": "Filmy z Gdyni"
+      "name": "Filmy z Gdyni",
+      "isVisibleInFilters": false,
+      "order": 70
     },
     "889": {
       "id": 889,
-      "name": "Konkurs Filmów Krótkometrażowych"
+      "name": "Konkurs Filmów Krótkometrażowych",
+      "isVisibleInFilters": true,
+      "order": 2
     },
     "891": {
       "id": 891,
-      "name": "Konkurs Główny"
+      "name": "Konkurs Główny",
+      "isVisibleInFilters": true,
+      "order": 1
     },
     "892": {
       "id": 892,
-      "name": "Pokaz filmu Laureata Platynowych Lwów"
+      "name": "Pokaz filmu Laureata Platynowych Lwów",
+      "isVisibleInFilters": false,
+      "order": 260
     },
     "896": {
       "id": 896,
-      "name": "Film otwarcia"
+      "name": "Film otwarcia",
+      "isVisibleInFilters": false,
+      "order": 60
     },
     "1492": {
       "id": 1492,
-      "name": "Nagroda Złote Lwiątka im. Janusza Korczaka"
+      "name": "Nagroda Złote Lwiątka im. Janusza Korczaka",
+      "isVisibleInFilters": false,
+      "order": 250
     },
     "1493": {
       "id": 1493,
-      "name": "Mistrzowska Piątka"
+      "name": "Mistrzowska Piątka",
+      "isVisibleInFilters": false,
+      "order": 4
     },
     "1504": {
       "id": 1504,
-      "name": "Dokument w Gdyni"
+      "name": "Dokument w Gdyni",
+      "isVisibleInFilters": false,
+      "order": 6
     },
     "1933": {
       "id": 1933,
-      "name": "Gdynia dzieciom"
+      "name": "Gdynia dzieciom",
+      "isVisibleInFilters": false,
+      "order": 90
     },
     "1934": {
       "id": 1934,
-      "name": "Konkurs Perspektywy"
+      "name": "Konkurs Perspektywy",
+      "isVisibleInFilters": true,
+      "order": 3
     },
     "1943": {
       "id": 1943,
-      "name": "Masterclass Laureata Platynowych Lwów"
+      "name": "Masterclass Laureata Platynowych Lwów",
+      "isVisibleInFilters": false,
+      "order": 230
     },
     "1960": {
       "id": 1960,
-      "name": "FINA Podwójne uderzenie"
+      "name": "FINA Podwójne uderzenie",
+      "isVisibleInFilters": false,
+      "order": 80
     },
     "2408": {
       "id": 2408,
-      "name": "20 lat PISF: Sesja pierwsza"
+      "name": "20 lat PISF: Sesja pierwsza",
+      "isVisibleInFilters": false,
+      "order": 20
     },
     "2445": {
       "id": 2445,
-      "name": "Konkurs Główny - uroczysty pokaz"
+      "name": "Konkurs Główny - uroczysty pokaz",
+      "isVisibleInFilters": false,
+      "order": 180
     },
     "2449": {
       "id": 2449,
-      "name": "Konkurs Główny - pokaz prasowy"
+      "name": "Konkurs Główny - pokaz prasowy",
+      "isVisibleInFilters": false,
+      "order": 160
     },
     "2450": {
       "id": 2450,
-      "name": "Konkurs Filmów Krótkometrażowych - uroczysty pokaz"
+      "name": "Konkurs Filmów Krótkometrażowych - uroczysty pokaz",
+      "isVisibleInFilters": false,
+      "order": 140
     },
     "2451": {
       "id": 2451,
-      "name": "100 lat FIPRESCI"
+      "name": "100 lat FIPRESCI",
+      "isVisibleInFilters": false,
+      "order": 10
     },
     "2452": {
       "id": 2452,
-      "name": "Kino offowe w Gdyni"
+      "name": "Kino offowe w Gdyni",
+      "isVisibleInFilters": false,
+      "order": 110
     },
     "2458": {
       "id": 2458,
-      "name": "Gdynia dzieciom - spotkanie z twórcami"
+      "name": "Gdynia dzieciom - spotkanie z twórcami",
+      "isVisibleInFilters": false,
+      "order": 100
     },
     "2459": {
       "id": 2459,
-      "name": "Konkurs Perspektywy - uroczysty pokaz"
+      "name": "Konkurs Perspektywy - uroczysty pokaz",
+      "isVisibleInFilters": false,
+      "order": 210
     },
     "2460": {
       "id": 2460,
-      "name": "Konkurs Perspektywy - spotkanie z twórcami"
+      "name": "Konkurs Perspektywy - spotkanie z twórcami",
+      "isVisibleInFilters": false,
+      "order": 200
     },
     "2461": {
       "id": 2461,
-      "name": "Konkurs Filmów Krótkometrażowych - spotkanie z twórcami"
+      "name": "Konkurs Filmów Krótkometrażowych - spotkanie z twórcami",
+      "isVisibleInFilters": false,
+      "order": 130
     },
     "2463": {
       "id": 2463,
-      "name": "Redliński x 2"
+      "name": "Redliński x 2",
+      "isVisibleInFilters": false,
+      "order": 280
     },
     "2466": {
       "id": 2466,
-      "name": "Konkurs Główny - spotkanie z twórcami"
+      "name": "Konkurs Główny - spotkanie z twórcami",
+      "isVisibleInFilters": false,
+      "order": 170
     },
     "2468": {
       "id": 2468,
-      "name": "Dokument w Gdyni - Portrety"
+      "name": "Dokument w Gdyni - Portrety",
+      "isVisibleInFilters": false,
+      "order": 40
     },
     "2469": {
       "id": 2469,
-      "name": "Marcin Wrona 10 lat później"
+      "name": "Marcin Wrona 10 lat później",
+      "isVisibleInFilters": false,
+      "order": 220
     },
     "2479": {
       "id": 2479,
-      "name": "Europejska Akademia Filmowa - Pierwsza nagroda"
+      "name": "Europejska Akademia Filmowa - Pierwsza nagroda",
+      "isVisibleInFilters": false,
+      "order": 50
     },
     "2509": {
       "id": 2509,
-      "name": "Wydarzenia towarzyszące"
+      "name": "Wydarzenia towarzyszące",
+      "isVisibleInFilters": false,
+      "order": 290
     }
   },
   "locationsById": {
