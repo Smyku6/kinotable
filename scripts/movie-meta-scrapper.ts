@@ -16,8 +16,8 @@ type MovieInput = {
 
 
 // ===== Konfiguracja =====
-const INPUT = path.resolve(process.cwd(), "../public/movie-list.json");
-const OUTPUT = path.resolve(process.cwd(), "../public/movies-meta.json");
+const INPUT = path.resolve(process.cwd(), "../public/data/raw/movie-list.json");
+const OUTPUT = path.resolve(process.cwd(), "../public/data/raw/movies-meta.json");
 const BASE = "https://festiwalgdynia.pl";
 
 const CONCURRENCY = 25;   // ile naraz pobierać
@@ -63,14 +63,8 @@ async function scrapeMovieMeta(id: number, originalTitle: string): Promise<{
 
     const info = doc.querySelector(".content-box-text .item-info");
 
-    const directorsList = extractDirectorsListFromInfoBlock(info, originalTitle, /* enableWarnings */ true);
+    const directors = extractDirectorsListFromInfoBlock(info, originalTitle, /* enableWarnings */ true);
 
-    let directorsField;
-    if (directorsList && directorsList.length > 0) {
-        directorsField = directorsList;
-    } else {
-        directorsField = null; // will have warned already
-    }
 
     // Year
     const yearTxt = norm(info?.querySelector(".details-premiere")?.textContent || "");
@@ -81,7 +75,7 @@ async function scrapeMovieMeta(id: number, originalTitle: string): Promise<{
     const timeTxt = norm(info?.querySelector(".details-time")?.textContent || "");
     const runtimeMin = parseRuntimeToMinutes(timeTxt, originalTitle);
 
-    return { directors: directorsField, year: yearNum, runtimeMin, url };
+    return { directors, year: yearNum, runtimeMin, url };
 }
 
 // ===== Main =====

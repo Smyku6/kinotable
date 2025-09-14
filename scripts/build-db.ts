@@ -2,9 +2,41 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 import { z } from "zod";
+import {Db, MovieOutput, ScreeningOutput} from "./build-db.types";
+
+function buildIndexes(db: Omit<Db, "indexes">) {
+    const contestIdToMovieIdsSet = new Map<number, Set<number>>();
+    const movieIdToContestIdsSet = new Map<number, Set<number>>();
+
+    db.screenings.forEach((screening) => {
+        if (screening.contestId == null) return;
+        if (!contestIdToMovieIdsSet.has(screening.contestId)) contestIdToMovieIdsSet.set(screening.contestId, new Set());
+
+        const movieIdsFromScreening = Array.isArray(screening.movieIds) ? screening.movieIds : [];
+        for (const movieId of movieIdsFromScreening) {
+            contestIdToMovieIdsSet.get(screening.contestId)!.add(movieId);
+            if (!movieIdToContestIdsSet.has(movieId)) movieIdToContestIdsSet.set(movieId, new Set());
+            movieIdToContestIdsSet.get(movieId)!.add(screening.contestId);
+        }
+    });
+
+    const contestIdToMovieIds: Record<string, number[]> = {};
+    for (const [cid, set] of contestIdToMovieIdsSet) {
+        contestIdToMovieIds[String(cid)] = Array.from(set).sort((a, b) => a - b);
+    }
+
+    const movieIdToContestIds: Record<string, number[]> = {};
+    for (const [mid, set] of movieIdToContestIdsSet) {
+        movieIdToContestIds[String(mid)] = Array.from(set).sort((a, b) => a - b);
+    }
+
+
+    return { contestIdToMovieIds, movieIdToContestIds };
+}
+
 
 /**
- * Step 2 — Build canonical DB (db.json) from raw JSON sources.
+ * Build canonical DB (db.json) from raw JSON sources.
  *
  * Input (data/raw):
  *  - movie-list.json
@@ -39,7 +71,7 @@ const MoviesMetaSchema = z.array(
     z.object({
         id: z.number(),
         originalTitle: z.string(),
-        directors: z.union([z.string(), z.array(z.string())]).nullable().optional(),
+        directors: z.array(z.string()).nullable().optional(),
         year: z.number().nullable().optional(),
         runtimeMin: z.number().nullable().optional(),
         url: z.string().url().optional(),
@@ -63,8 +95,7 @@ const ContestsSchema = z.array(
 // NOTE: screenings may contain either a single id (number) or multiple (number[])
 const ScreeningsSchema = z.array(
     z.object({
-        id: z.union([z.number(), z.array(z.number())]).nullable(),
-        movieTitles: z.array(z.string()),
+        movieIds: z.union([z.number(), z.array(z.number())]).nullable(),
         contestId: z.number().nullable(),
         placeId: z.number().nullable(),
         startsAt: z.string(), // ISO "YYYY-MM-DDTHH:mm:ss"
@@ -184,16 +215,7 @@ async function main() {
 
     // 5.3) Build moviesById (canonical movie dictionary)
     //      Source of truth for title is movie-list.json (you can apply merge precedence if needed).
-    const moviesById: Record<
-        string,
-        {
-            id: number;
-            originalTitle: string;
-            year?: number | null;
-            runtimeMin?: number | null;
-            directors?: string[] | null;
-        }
-    > = {};
+    const moviesById: Record<string,MovieOutput> = {};
 
     // Start from movie-list.json (guarantees at least {id, title})
     for (const m of movieList) {
@@ -222,28 +244,32 @@ async function main() {
     }
 
     // 5.4) Convert raw screenings into canonical structure
-    const outScreenings = screenings.map((s) => {
+    const outScreenings: ScreeningOutput[] = screenings.map((screening) => {
         // Always store film IDs as an array (supports short packages).
-        const ids = Array.isArray(s.id) ? s.id.slice() : s.id != null ? [s.id] : [];
+        const movieIds = Array.isArray(screening.movieIds) ? screening.movieIds.slice() : screening.movieIds != null ? [screening.movieIds] : [];
 
         // Normalize to a single boolean: accreditationOnly
         // Raw: accreditationNeeded === true (no-ticket) → accreditationOnly: true
         //      accreditationNeeded === false (has-ticket) → accreditationOnly: false
         //      null → default to false (configurable)
-        const accreditationOnly = s.accreditationNeeded ?? false;
+        const accreditationOnly = screening.accreditationNeeded ?? false;
+
+        // Building stringId
+        const timePart = new Date(screening.startsAt).getTime();
+        const movieIdsPart = movieIds.join();
 
         return {
-            ids,
-            titles: s.movieTitles,
-            contestId: s.contestId ?? null,
-            locationId: s.placeId ?? null,
-            startsAt: s.startsAt, // already ISO
+            id: Number(`${timePart}${screening.placeId}${screening.contestId}${movieIdsPart}`),
+            movieIds: movieIds,
+            contestId: screening.contestId ?? null,
+            locationId: screening.placeId ?? null,
+            startsAt: screening.startsAt, // already ISO
             accreditationOnly,
         };
     });
 
     // 5.5) Compose final canonical DB object
-    const db = {
+    const coreDbWithoutIndexes: Omit<Db, "indexes"> = {
         $schemaVersion: "1.0.0",
         generatedAt: new Date().toISOString(),
         moviesById,
@@ -252,6 +278,8 @@ async function main() {
         screenings: outScreenings,
     };
 
+    const indexes = buildIndexes(coreDbWithoutIndexes);
+    const db: Db = { ...coreDbWithoutIndexes, indexes };
     // 5.6) Write to disk
     await writeJson(OUT_FILE, db);
     console.log("💾 Generated:", OUT_FILE);

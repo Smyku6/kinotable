@@ -1,6 +1,6 @@
 [
   {
-    "id": 62828,
+    "movieIds": 62828,
     "movieTitles": [
       "Otwarcie Gdynia Dzieciom i pokaz filmu Skarbek i tajemnica magicznego sreberka"
     ],
@@ -10,7 +10,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 62077,
+    "movieIds": 62077,
     "movieTitles": [
       "O psie, który jeździł koleją 2"
     ],
@@ -20,7 +20,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 62832,
+    "movieIds": 62832,
     "movieTitles": [
       "Uroczystość Otwarcia Festiwalu i pokaz filmu Chopin, Chopin!"
     ],
@@ -30,7 +30,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -40,7 +40,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -50,7 +50,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59786,
       59973,
       59820,
@@ -70,7 +70,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59863,
       59869,
       59967,
@@ -90,7 +90,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -100,7 +100,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -110,7 +110,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -120,7 +120,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59814,
       59902,
       59944,
@@ -140,7 +140,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59876,
       59978,
       59794,
@@ -162,7 +162,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59844,
       59956,
       59950,
@@ -182,7 +182,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59768,
       59850,
       59829,
@@ -204,7 +204,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59814,
       59902,
       59944,
@@ -224,7 +224,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59876,
       59978,
       59794,
@@ -246,7 +246,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -256,7 +256,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -266,7 +266,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -276,7 +276,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -286,7 +286,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -296,7 +296,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -306,7 +306,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -316,7 +316,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -326,7 +326,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -336,7 +336,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60821,
+    "movieIds": 60821,
     "movieTitles": [
       "Nieciekawa historia"
     ],
@@ -346,7 +346,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -356,7 +356,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61060,
+    "movieIds": 61060,
     "movieTitles": [
       "Pora umierać"
     ],
@@ -366,7 +366,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -376,7 +376,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -386,7 +386,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -396,7 +396,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -406,7 +406,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -416,7 +416,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -426,7 +426,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -436,7 +436,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -446,7 +446,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -456,7 +456,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -466,7 +466,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -476,7 +476,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -486,7 +486,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -496,7 +496,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -506,7 +506,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -516,7 +516,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59902,
       59814,
       59944,
@@ -536,7 +536,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -546,7 +546,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -556,7 +556,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -566,7 +566,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61676,
+    "movieIds": 61676,
     "movieTitles": [
       "Orzełek Iggy"
     ],
@@ -576,7 +576,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -586,7 +586,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -596,7 +596,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -606,7 +606,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -616,7 +616,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -626,7 +626,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59837,
       59956,
       59950,
@@ -646,7 +646,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -656,7 +656,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -666,7 +666,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -676,7 +676,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -686,7 +686,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -696,7 +696,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -706,7 +706,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -716,7 +716,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -726,7 +726,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -736,7 +736,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -746,7 +746,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -756,7 +756,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -766,7 +766,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -776,7 +776,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -786,7 +786,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -796,7 +796,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -806,7 +806,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -816,7 +816,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -826,7 +826,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -836,7 +836,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -846,7 +846,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -856,7 +856,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -866,7 +866,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -876,7 +876,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -886,7 +886,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -896,7 +896,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -906,7 +906,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -916,7 +916,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -926,7 +926,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -936,7 +936,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -946,7 +946,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -956,7 +956,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59902,
       59814,
       59944,
@@ -976,7 +976,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -986,7 +986,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -996,7 +996,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -1006,7 +1006,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59786,
       59973,
       59820,
@@ -1026,7 +1026,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59863,
       59967,
       59890,
@@ -1046,7 +1046,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59876,
       59978,
       59794,
@@ -1068,7 +1068,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 63021,
+    "movieIds": 63021,
     "movieTitles": [
       "IO"
     ],
@@ -1078,7 +1078,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59876,
       59978,
       59794,
@@ -1100,7 +1100,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59850,
       59829,
       59857,
@@ -1122,7 +1122,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -1132,7 +1132,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -1142,7 +1142,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -1152,7 +1152,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -1162,7 +1162,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -1172,7 +1172,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -1182,7 +1182,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -1192,7 +1192,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61792,
+    "movieIds": 61792,
     "movieTitles": [
       "Pod powierzchnią"
     ],
@@ -1202,7 +1202,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61228,
+    "movieIds": 61228,
     "movieTitles": [
       "Wrota Europy"
     ],
@@ -1212,7 +1212,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61005,
+    "movieIds": 61005,
     "movieTitles": [
       "Krótki film o zabijaniu"
     ],
@@ -1222,7 +1222,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61785,
+    "movieIds": 61785,
     "movieTitles": [
       "Gość"
     ],
@@ -1232,7 +1232,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61262,
+    "movieIds": 61262,
     "movieTitles": [
       "Sanatorium pod Klepsydrą według Braci Quay"
     ],
@@ -1242,7 +1242,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -1252,7 +1252,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -1262,7 +1262,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -1272,7 +1272,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -1282,7 +1282,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -1292,7 +1292,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -1302,7 +1302,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -1312,7 +1312,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -1322,7 +1322,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -1332,7 +1332,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -1342,7 +1342,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -1352,7 +1352,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -1362,7 +1362,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -1372,7 +1372,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -1382,7 +1382,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -1392,7 +1392,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59786,
       59973,
       59820,
@@ -1412,7 +1412,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59863,
       59967,
       59890,
@@ -1432,7 +1432,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -1442,7 +1442,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 62077,
+    "movieIds": 62077,
     "movieTitles": [
       "O psie, który jeździł koleją 2"
     ],
@@ -1452,7 +1452,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60938,
+    "movieIds": 60938,
     "movieTitles": [
       "Skarbek i tajemnica magicznego sreberka"
     ],
@@ -1462,7 +1462,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -1472,7 +1472,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -1482,7 +1482,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -1492,7 +1492,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -1502,7 +1502,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -1512,7 +1512,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -1522,7 +1522,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -1532,7 +1532,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -1542,7 +1542,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -1552,7 +1552,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -1562,7 +1562,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -1572,7 +1572,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -1582,7 +1582,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -1592,7 +1592,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -1602,7 +1602,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -1612,7 +1612,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -1622,7 +1622,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -1632,7 +1632,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -1642,7 +1642,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -1652,7 +1652,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -1662,7 +1662,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -1672,7 +1672,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -1682,7 +1682,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -1692,7 +1692,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -1702,7 +1702,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -1712,7 +1712,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -1722,7 +1722,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -1732,7 +1732,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -1742,7 +1742,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -1752,7 +1752,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 63648,
+    "movieIds": 63648,
     "movieTitles": [
       "Rękopis znaleziony w Saragossie - pokaz filmu z muzyką na żywo"
     ],
@@ -1762,7 +1762,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -1772,7 +1772,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -1782,7 +1782,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -1792,7 +1792,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -1802,7 +1802,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -1812,7 +1812,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -1822,7 +1822,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": [
+    "movieIds": [
       59863,
       59967,
       59890,
@@ -1842,7 +1842,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59902,
       59814,
       59944,
@@ -1862,7 +1862,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59786,
       59973,
       59820,
@@ -1882,7 +1882,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 62053,
+    "movieIds": 62053,
     "movieTitles": [
       "Zmęczone"
     ],
@@ -1892,7 +1892,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59850,
       59829,
       59857,
@@ -1914,7 +1914,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59786,
       59973,
       59820,
@@ -1934,7 +1934,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -1944,7 +1944,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": [
+    "movieIds": [
       59956,
       59950,
       59896,
@@ -1964,7 +1964,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -1974,7 +1974,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": [
+    "movieIds": [
       59876,
       59978,
       59794,
@@ -1996,7 +1996,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -2006,7 +2006,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -2016,7 +2016,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61813,
+    "movieIds": 61813,
     "movieTitles": [
       "Pasażer Andrzej Munk"
     ],
@@ -2026,7 +2026,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       60853,
       60817
     ],
@@ -2040,7 +2040,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       61002,
       60973
     ],
@@ -2054,7 +2054,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60992,
+    "movieIds": 60992,
     "movieTitles": [
       "Kallafiorr"
     ],
@@ -2064,7 +2064,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -2074,7 +2074,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -2084,7 +2084,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -2094,7 +2094,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -2104,7 +2104,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -2114,7 +2114,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -2124,7 +2124,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -2134,7 +2134,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -2144,7 +2144,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -2154,7 +2154,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 62038,
+    "movieIds": 62038,
     "movieTitles": [
       "Egzamin"
     ],
@@ -2164,7 +2164,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 62045,
+    "movieIds": 62045,
     "movieTitles": [
       "RZYM TO KABARET – kulisy produkcji musicalu"
     ],
@@ -2174,7 +2174,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -2184,7 +2184,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -2194,7 +2194,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -2204,7 +2204,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -2214,7 +2214,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -2224,7 +2224,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -2234,7 +2234,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -2244,7 +2244,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -2254,7 +2254,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -2264,7 +2264,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60911,
+    "movieIds": 60911,
     "movieTitles": [
       "Skrzat. Nowy początek"
     ],
@@ -2274,7 +2274,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -2284,7 +2284,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -2294,7 +2294,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -2304,7 +2304,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -2314,7 +2314,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -2324,7 +2324,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -2334,7 +2334,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -2344,7 +2344,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -2354,7 +2354,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -2364,7 +2364,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -2374,7 +2374,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -2384,7 +2384,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -2394,7 +2394,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -2404,7 +2404,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -2414,7 +2414,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -2424,7 +2424,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -2434,7 +2434,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -2444,7 +2444,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -2454,7 +2454,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -2464,7 +2464,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -2474,7 +2474,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -2484,7 +2484,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -2494,7 +2494,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -2504,7 +2504,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -2514,7 +2514,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -2524,7 +2524,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -2534,7 +2534,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -2544,7 +2544,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -2554,7 +2554,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -2564,7 +2564,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -2574,7 +2574,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -2584,7 +2584,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -2594,7 +2594,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -2604,7 +2604,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -2614,7 +2614,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -2624,7 +2624,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -2634,7 +2634,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": [
+    "movieIds": [
       59850,
       59829,
       59857,
@@ -2656,7 +2656,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -2666,7 +2666,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -2676,7 +2676,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -2686,7 +2686,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59863,
       59967,
       59890,
@@ -2706,7 +2706,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 63238,
+    "movieIds": 63238,
     "movieTitles": [
       "Masterclass Ewy Braun"
     ],
@@ -2716,7 +2716,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 63241,
+    "movieIds": 63241,
     "movieTitles": [
       "Debata „Pół wieku i co dalej: Dokąd zmierza polskie kino? FPFF x EKRANY"
     ],
@@ -2726,7 +2726,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": [
+    "movieIds": [
       59902,
       59814,
       59944,
@@ -2746,7 +2746,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59956,
       59950,
       59896,
@@ -2766,7 +2766,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -2776,7 +2776,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -2786,7 +2786,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -2796,7 +2796,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -2806,7 +2806,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -2816,7 +2816,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -2826,7 +2826,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -2836,7 +2836,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61066,
+    "movieIds": 61066,
     "movieTitles": [
       "Ogród Luizy"
     ],
@@ -2846,7 +2846,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61571,
+    "movieIds": 61571,
     "movieTitles": [
       "Mama"
     ],
@@ -2856,7 +2856,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61821,
+    "movieIds": 61821,
     "movieTitles": [
       "Rysopis znaleziony po latach. Wojciech Jerzy Has"
     ],
@@ -2866,7 +2866,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61254,
+    "movieIds": 61254,
     "movieTitles": [
       "Bądź wola moja"
     ],
@@ -2876,7 +2876,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61054,
+    "movieIds": 61054,
     "movieTitles": [
       "Sztuczki"
     ],
@@ -2886,7 +2886,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -2896,7 +2896,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -2906,7 +2906,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -2916,7 +2916,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -2926,7 +2926,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -2936,7 +2936,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -2946,7 +2946,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -2956,7 +2956,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -2966,7 +2966,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -2976,7 +2976,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59786,
       59973,
       59820,
@@ -2996,7 +2996,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -3006,7 +3006,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -3016,7 +3016,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -3026,7 +3026,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -3036,7 +3036,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59956,
       59950,
       59896,
@@ -3056,7 +3056,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59876,
       59978,
       59794,
@@ -3078,7 +3078,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -3088,7 +3088,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -3098,7 +3098,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60929,
+    "movieIds": 60929,
     "movieTitles": [
       "Oskar, Patka i Złoto Bałtyku"
     ],
@@ -3108,7 +3108,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -3118,7 +3118,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -3128,7 +3128,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -3138,7 +3138,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -3148,7 +3148,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -3158,7 +3158,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -3168,7 +3168,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -3178,7 +3178,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -3188,7 +3188,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -3198,7 +3198,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -3208,7 +3208,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -3218,7 +3218,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -3228,7 +3228,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -3238,7 +3238,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -3248,7 +3248,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -3258,7 +3258,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -3268,7 +3268,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -3278,7 +3278,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -3288,7 +3288,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -3298,7 +3298,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -3308,7 +3308,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61799,
+    "movieIds": 61799,
     "movieTitles": [
       "Silver"
     ],
@@ -3318,7 +3318,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -3328,7 +3328,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -3338,7 +3338,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -3348,7 +3348,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -3358,7 +3358,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -3368,7 +3368,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -3378,7 +3378,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -3388,7 +3388,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -3398,7 +3398,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -3408,7 +3408,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -3418,7 +3418,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -3428,7 +3428,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -3438,7 +3438,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -3448,7 +3448,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -3458,7 +3458,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -3468,7 +3468,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -3478,7 +3478,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59786,
       59820,
       59924,
@@ -3498,7 +3498,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59837,
       59956,
       59950,
@@ -3518,7 +3518,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59902,
       59814,
       59944,
@@ -3538,7 +3538,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59876,
       59978,
       59794,
@@ -3560,7 +3560,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59850,
       59829,
       59857,
@@ -3580,7 +3580,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59863,
       59967,
       59890,
@@ -3600,7 +3600,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -3610,7 +3610,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -3620,7 +3620,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -3630,7 +3630,7 @@
     "accreditationNeeded": true
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -3640,7 +3640,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -3650,7 +3650,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -3660,7 +3660,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -3670,7 +3670,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 63330,
+    "movieIds": 63330,
     "movieTitles": [
       "Konopielka"
     ],
@@ -3680,7 +3680,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61806,
+    "movieIds": 61806,
     "movieTitles": [
       "Pasja według Agnieszki"
     ],
@@ -3690,7 +3690,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60847,
+    "movieIds": 60847,
     "movieTitles": [
       "Szpital przemienienia"
     ],
@@ -3700,7 +3700,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60841,
+    "movieIds": 60841,
     "movieTitles": [
       "Córki dancingu"
     ],
@@ -3710,7 +3710,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       61010,
       61013
     ],
@@ -3724,7 +3724,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -3734,7 +3734,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -3744,7 +3744,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -3754,7 +3754,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -3764,7 +3764,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -3774,7 +3774,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -3784,7 +3784,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -3794,7 +3794,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -3804,7 +3804,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -3814,7 +3814,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -3824,7 +3824,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -3834,7 +3834,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -3844,7 +3844,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -3854,7 +3854,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59850,
       59931,
       59829,
@@ -3876,7 +3876,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -3886,7 +3886,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -3896,7 +3896,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -3906,7 +3906,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -3916,7 +3916,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -3926,7 +3926,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60899,
+    "movieIds": 60899,
     "movieTitles": [
       "Dziadku, wiejemy!"
     ],
@@ -3936,7 +3936,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -3946,7 +3946,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -3956,7 +3956,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61777,
+    "movieIds": 61777,
     "movieTitles": [
       "Pociągi"
     ],
@@ -3966,7 +3966,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -3976,7 +3976,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -3986,7 +3986,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -3996,7 +3996,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -4006,7 +4006,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -4016,7 +4016,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       60997,
       61044
     ],
@@ -4030,7 +4030,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -4040,7 +4040,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -4050,7 +4050,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -4060,7 +4060,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -4070,7 +4070,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -4080,7 +4080,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -4090,7 +4090,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -4100,7 +4100,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -4110,7 +4110,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -4120,7 +4120,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -4130,7 +4130,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -4140,7 +4140,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -4150,7 +4150,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -4160,7 +4160,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -4170,7 +4170,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -4180,7 +4180,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -4190,7 +4190,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -4200,7 +4200,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -4210,7 +4210,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -4220,7 +4220,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -4230,7 +4230,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -4240,7 +4240,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -4250,7 +4250,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -4260,7 +4260,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59837,
       59956,
       59950,
@@ -4280,7 +4280,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59850,
       59931,
       59829,
@@ -4302,7 +4302,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": [
+    "movieIds": [
       59863,
       59967,
       59890,
@@ -4322,7 +4322,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 63244,
+    "movieIds": 63244,
     "movieTitles": [
       "Pokaz zwycięskich filmów krótkometrażowych"
     ],
@@ -4332,7 +4332,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -4342,7 +4342,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -4352,7 +4352,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -4362,7 +4362,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -4372,7 +4372,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -4382,7 +4382,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60837,
+    "movieIds": 60837,
     "movieTitles": [
       "Popiół i diament"
     ],
@@ -4392,7 +4392,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 61051,
+    "movieIds": 61051,
     "movieTitles": [
       "Awans"
     ],
@@ -4402,7 +4402,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -4412,7 +4412,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60175,
+    "movieIds": 60175,
     "movieTitles": [
       "Brat"
     ],
@@ -4422,7 +4422,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -4432,7 +4432,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -4442,7 +4442,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -4452,7 +4452,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60200,
+    "movieIds": 60200,
     "movieTitles": [
       "Dom dobry"
     ],
@@ -4462,7 +4462,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60372,
+    "movieIds": 60372,
     "movieTitles": [
       "CAPO"
     ],
@@ -4472,7 +4472,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60247,
+    "movieIds": 60247,
     "movieTitles": [
       "Vinci 2"
     ],
@@ -4482,7 +4482,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -4492,7 +4492,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60556,
+    "movieIds": 60556,
     "movieTitles": [
       "Północ Południe"
     ],
@@ -4502,7 +4502,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60606,
+    "movieIds": 60606,
     "movieTitles": [
       "Przepiękne!"
     ],
@@ -4512,7 +4512,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60507,
+    "movieIds": 60507,
     "movieTitles": [
       "13 dni do wakacji"
     ],
@@ -4522,7 +4522,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60543,
+    "movieIds": 60543,
     "movieTitles": [
       "Las"
     ],
@@ -4532,7 +4532,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60378,
+    "movieIds": 60378,
     "movieTitles": [
       "Życie dla początkujących"
     ],
@@ -4542,7 +4542,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60188,
+    "movieIds": 60188,
     "movieTitles": [
       "Chopin, Chopin!"
     ],
@@ -4552,7 +4552,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60385,
+    "movieIds": 60385,
     "movieTitles": [
       "LARP. Miłość, trolle i inne questy"
     ],
@@ -4562,7 +4562,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60578,
+    "movieIds": 60578,
     "movieTitles": [
       "To się nie dzieje"
     ],
@@ -4572,7 +4572,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60241,
+    "movieIds": 60241,
     "movieTitles": [
       "Trzy miłości"
     ],
@@ -4582,7 +4582,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60230,
+    "movieIds": 60230,
     "movieTitles": [
       "Nie ma duchów w mieszkaniu na Dobrej"
     ],
@@ -4592,7 +4592,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -4602,7 +4602,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -4612,7 +4612,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -4622,7 +4622,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60220,
+    "movieIds": 60220,
     "movieTitles": [
       "Klarnet"
     ],
@@ -4632,7 +4632,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60225,
+    "movieIds": 60225,
     "movieTitles": [
       "Ministranci"
     ],
@@ -4642,7 +4642,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60259,
+    "movieIds": 60259,
     "movieTitles": [
       "Zamach na papieża"
     ],
@@ -4652,7 +4652,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60391,
+    "movieIds": 60391,
     "movieTitles": [
       "Światłoczuła"
     ],
@@ -4662,7 +4662,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60518,
+    "movieIds": 60518,
     "movieTitles": [
       "Dziennik z wycieczki do Budapesztu"
     ],
@@ -4672,7 +4672,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60530,
+    "movieIds": 60530,
     "movieTitles": [
       "Glorious Summer"
     ],
@@ -4682,7 +4682,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60591,
+    "movieIds": 60591,
     "movieTitles": [
       "Zaprawdę Hitler umarł"
     ],
@@ -4692,7 +4692,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60236,
+    "movieIds": 60236,
     "movieTitles": [
       "Terytorium"
     ],
@@ -4702,7 +4702,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60253,
+    "movieIds": 60253,
     "movieTitles": [
       "Wielka Warszawska"
     ],
@@ -4712,7 +4712,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 60214,
+    "movieIds": 60214,
     "movieTitles": [
       "Franz Kafka"
     ],
@@ -4722,7 +4722,7 @@
     "accreditationNeeded": false
   },
   {
-    "id": 63244,
+    "movieIds": 63244,
     "movieTitles": [
       "Pokaz zwycięskich filmów krótkometrażowych"
     ],

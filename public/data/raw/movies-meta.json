@@ -2,7 +2,9 @@
   {
     "id": 60507,
     "originalTitle": "13 dni do wakacji",
-    "directors": "Bartosz M. Kowalski",
+    "directors": [
+      "Bartosz M. Kowalski"
+    ],
     "year": 2025,
     "runtimeMin": 80,
     "url": "https://festiwalgdynia.pl/?p=60507"
@@ -10,7 +12,9 @@
   {
     "id": 59768,
     "originalTitle": "Asomia",
-    "directors": "Wojciech Węglarz",
+    "directors": [
+      "Wojciech Węglarz"
+    ],
     "year": 2025,
     "runtimeMin": 15,
     "url": "https://festiwalgdynia.pl/?p=59768"
@@ -18,7 +22,9 @@
   {
     "id": 61051,
     "originalTitle": "Awans",
-    "directors": "Janusz Zaorski",
+    "directors": [
+      "Janusz Zaorski"
+    ],
     "year": 1974,
     "runtimeMin": 75,
     "url": "https://festiwalgdynia.pl/?p=61051"
@@ -26,7 +32,9 @@
   {
     "id": 60853,
     "originalTitle": "Awatar, czyli zamiana dusz",
-    "directors": "Janusz Majewski",
+    "directors": [
+      "Janusz Majewski"
+    ],
     "year": 1964,
     "runtimeMin": 59,
     "url": "https://festiwalgdynia.pl/?p=60853"
@@ -34,7 +42,9 @@
   {
     "id": 59775,
     "originalTitle": "Bazarowe Love",
-    "directors": "Jakub Pycak",
+    "directors": [
+      "Jakub Pycak"
+    ],
     "year": 2025,
     "runtimeMin": 19,
     "url": "https://festiwalgdynia.pl/?p=59775"
@@ -42,7 +52,9 @@
   {
     "id": 61254,
     "originalTitle": "Bądź wola moja",
-    "directors": "Julia Kowalski",
+    "directors": [
+      "Julia Kowalski"
+    ],
     "year": 2025,
     "runtimeMin": 95,
     "url": "https://festiwalgdynia.pl/?p=61254"
@@ -50,7 +62,9 @@
   {
     "id": 59786,
     "originalTitle": "Bez reszty",
-    "directors": "Jakub Prysak",
+    "directors": [
+      "Jakub Prysak"
+    ],
     "year": 2025,
     "runtimeMin": 29,
     "url": "https://festiwalgdynia.pl/?p=59786"
@@ -58,7 +72,9 @@
   {
     "id": 59794,
     "originalTitle": "Bliżej",
-    "directors": "Aleksandra Szczyrek",
+    "directors": [
+      "Aleksandra Szczyrek"
+    ],
     "year": 2025,
     "runtimeMin": 17,
     "url": "https://festiwalgdynia.pl/?p=59794"
@@ -66,7 +82,9 @@
   {
     "id": 60175,
     "originalTitle": "Brat",
-    "directors": "Maciej Sobieszczański",
+    "directors": [
+      "Maciej Sobieszczański"
+    ],
     "year": 2025,
     "runtimeMin": 98,
     "url": "https://festiwalgdynia.pl/?p=60175"
@@ -74,7 +92,9 @@
   {
     "id": 60372,
     "originalTitle": "CAPO",
-    "directors": "Robert Kwilman",
+    "directors": [
+      "Robert Kwilman"
+    ],
     "year": 2025,
     "runtimeMin": 83,
     "url": "https://festiwalgdynia.pl/?p=60372"
@@ -82,7 +102,9 @@
   {
     "id": 60188,
     "originalTitle": "Chopin, Chopin!",
-    "directors": "Michał Kwieciński",
+    "directors": [
+      "Michał Kwieciński"
+    ],
     "year": 2025,
     "runtimeMin": 133,
     "url": "https://festiwalgdynia.pl/?p=60188"
@@ -90,7 +112,9 @@
   {
     "id": 60841,
     "originalTitle": "Córki dancingu",
-    "directors": "Agnieszka Smoczyńska",
+    "directors": [
+      "Agnieszka Smoczyńska"
+    ],
     "year": 2015,
     "runtimeMin": 89,
     "url": "https://festiwalgdynia.pl/?p=60841"
@@ -98,7 +122,9 @@
   {
     "id": 61010,
     "originalTitle": "Człowiek magnes",
-    "directors": "Marcin Wrona",
+    "directors": [
+      "Marcin Wrona"
+    ],
     "year": 2001,
     "runtimeMin": 19,
     "url": "https://festiwalgdynia.pl/?p=61010"
@@ -106,7 +132,9 @@
   {
     "id": 59805,
     "originalTitle": "Ćwiartka",
-    "directors": "Maja Górczak",
+    "directors": [
+      "Maja Górczak"
+    ],
     "year": 2025,
     "runtimeMin": 12,
     "url": "https://festiwalgdynia.pl/?p=59805"
@@ -114,7 +142,7 @@
   {
     "id": 63241,
     "originalTitle": "Debata „Pół wieku i co dalej: Dokąd zmierza polskie kino? FPFF x EKRANY\"",
-    "directors": null,
+    "directors": [],
     "year": null,
     "runtimeMin": null,
     "url": "https://festiwalgdynia.pl/?p=63241"
@@ -122,7 +150,9 @@
   {
     "id": 61013,
     "originalTitle": "Demon",
-    "directors": "Marcin Wrona",
+    "directors": [
+      "Marcin Wrona"
+    ],
     "year": 2015,
     "runtimeMin": 95,
     "url": "https://festiwalgdynia.pl/?p=61013"
@@ -130,7 +160,9 @@
   {
     "id": 59814,
     "originalTitle": "Dickflip",
-    "directors": "Dominik Hadziewicz",
+    "directors": [
+      "Dominik Hadziewicz"
+    ],
     "year": 2025,
     "runtimeMin": 15,
     "url": "https://festiwalgdynia.pl/?p=59814"
@@ -138,7 +170,9 @@
   {
     "id": 60200,
     "originalTitle": "Dom dobry",
-    "directors": "Wojtek Smarzowski",
+    "directors": [
+      "Wojtek Smarzowski"
+    ],
     "year": 2025,
     "runtimeMin": 107,
     "url": "https://festiwalgdynia.pl/?p=60200"
@@ -146,7 +180,9 @@
   {
     "id": 60899,
     "originalTitle": "Dziadku, wiejemy!",
-    "directors": "Olga Chajdas",
+    "directors": [
+      "Olga Chajdas"
+    ],
     "year": 2025,
     "runtimeMin": 96,
     "url": "https://festiwalgdynia.pl/?p=60899"
@@ -154,7 +190,9 @@
   {
     "id": 60518,
     "originalTitle": "Dziennik z wycieczki do Budapesztu",
-    "directors": "Rafał Kapeliński",
+    "directors": [
+      "Rafał Kapeliński"
+    ],
     "year": 2024,
     "runtimeMin": 127,
     "url": "https://festiwalgdynia.pl/?p=60518"
@@ -162,7 +200,9 @@
   {
     "id": 62038,
     "originalTitle": "Egzamin",
-    "directors": "Piotr Bańkowski",
+    "directors": [
+      "Piotr Bańkowski"
+    ],
     "year": 2025,
     "runtimeMin": 20,
     "url": "https://festiwalgdynia.pl/?p=62038"
@@ -170,7 +210,9 @@
   {
     "id": 59820,
     "originalTitle": "Fish and Chips",
-    "directors": "Bartłomiej Błaszczyński",
+    "directors": [
+      "Bartłomiej Błaszczyński"
+    ],
     "year": 2025,
     "runtimeMin": 20,
     "url": "https://festiwalgdynia.pl/?p=59820"
@@ -178,7 +220,9 @@
   {
     "id": 60214,
     "originalTitle": "Franz Kafka",
-    "directors": "Agnieszka Holland",
+    "directors": [
+      "Agnieszka Holland"
+    ],
     "year": 2025,
     "runtimeMin": 127,
     "url": "https://festiwalgdynia.pl/?p=60214"
@@ -186,7 +230,9 @@
   {
     "id": 59829,
     "originalTitle": "Fuck them all",
-    "directors": "Polina Biliaieva",
+    "directors": [
+      "Polina Biliaieva"
+    ],
     "year": 2025,
     "runtimeMin": 15,
     "url": "https://festiwalgdynia.pl/?p=59829"
@@ -194,7 +240,9 @@
   {
     "id": 59837,
     "originalTitle": "Glitter",
-    "directors": "Konrad Kultys",
+    "directors": [
+      "Konrad Kultys"
+    ],
     "year": 2025,
     "runtimeMin": 16,
     "url": "https://festiwalgdynia.pl/?p=59837"
@@ -202,7 +250,9 @@
   {
     "id": 60530,
     "originalTitle": "Glorious Summer",
-    "directors": "Helena Ganjalyan, Bartosz Szpak",
+    "directors": [
+      "Helena Ganjalyan, Bartosz Szpak"
+    ],
     "year": 2025,
     "runtimeMin": 89,
     "url": "https://festiwalgdynia.pl/?p=60530"
@@ -210,7 +260,9 @@
   {
     "id": 61785,
     "originalTitle": "Gość",
-    "directors": "Zvika Gregory Portnoy, Zuzanna Solakiewicz",
+    "directors": [
+      "Zvika Gregory Portnoy, Zuzanna Solakiewicz"
+    ],
     "year": 2024,
     "runtimeMin": 78,
     "url": "https://festiwalgdynia.pl/?p=61785"
@@ -218,7 +270,9 @@
   {
     "id": 59844,
     "originalTitle": "Houdini",
-    "directors": "Mariusz Rusiński",
+    "directors": [
+      "Mariusz Rusiński"
+    ],
     "year": 2025,
     "runtimeMin": 19,
     "url": "https://festiwalgdynia.pl/?p=59844"
@@ -226,7 +280,9 @@
   {
     "id": 63021,
     "originalTitle": "IO",
-    "directors": "Jerzy Skolimowski",
+    "directors": [
+      "Jerzy Skolimowski"
+    ],
     "year": 2022,
     "runtimeMin": 88,
     "url": "https://festiwalgdynia.pl/?p=63021"
@@ -234,7 +290,9 @@
   {
     "id": 60817,
     "originalTitle": "Ja gorę!",
-    "directors": "Janusz Majewski",
+    "directors": [
+      "Janusz Majewski"
+    ],
     "year": 1967,
     "runtimeMin": 27,
     "url": "https://festiwalgdynia.pl/?p=60817"
@@ -242,7 +300,9 @@
   {
     "id": 59850,
     "originalTitle": "Jagody",
-    "directors": "Marta Kowalska",
+    "directors": [
+      "Marta Kowalska"
+    ],
     "year": 2025,
     "runtimeMin": 16,
     "url": "https://festiwalgdynia.pl/?p=59850"
@@ -250,7 +310,9 @@
   {
     "id": 59857,
     "originalTitle": "Jak się odkochać",
-    "directors": "Varvara Zarytska",
+    "directors": [
+      "Varvara Zarytska"
+    ],
     "year": 2025,
     "runtimeMin": 16,
     "url": "https://festiwalgdynia.pl/?p=59857"
@@ -258,7 +320,9 @@
   {
     "id": 59863,
     "originalTitle": "Jogurt",
-    "directors": "Aleksandra Góralewska",
+    "directors": [
+      "Aleksandra Góralewska"
+    ],
     "year": 2025,
     "runtimeMin": 27,
     "url": "https://festiwalgdynia.pl/?p=59863"
@@ -266,7 +330,9 @@
   {
     "id": 60992,
     "originalTitle": "Kallafiorr",
-    "directors": "Jacek Borcuch",
+    "directors": [
+      "Jacek Borcuch"
+    ],
     "year": 1999,
     "runtimeMin": 60,
     "url": "https://festiwalgdynia.pl/?p=60992"
@@ -274,7 +340,9 @@
   {
     "id": 60220,
     "originalTitle": "Klarnet",
-    "directors": "Tola Jasionowska",
+    "directors": [
+      "Tola Jasionowska"
+    ],
     "year": 2025,
     "runtimeMin": 101,
     "url": "https://festiwalgdynia.pl/?p=60220"
@@ -282,7 +350,9 @@
   {
     "id": 63330,
     "originalTitle": "Konopielka",
-    "directors": "Witold Leszczyński",
+    "directors": [
+      "Witold Leszczyński"
+    ],
     "year": 1981,
     "runtimeMin": 88,
     "url": "https://festiwalgdynia.pl/?p=63330"
@@ -290,7 +360,9 @@
   {
     "id": 61005,
     "originalTitle": "Krótki film o zabijaniu",
-    "directors": "Krzysztof Kieślowski",
+    "directors": [
+      "Krzysztof Kieślowski"
+    ],
     "year": 1987,
     "runtimeMin": 84,
     "url": "https://festiwalgdynia.pl/?p=61005"
@@ -298,7 +370,9 @@
   {
     "id": 60385,
     "originalTitle": "LARP. Miłość, trolle i inne questy",
-    "directors": "Kordian Kądziela",
+    "directors": [
+      "Kordian Kądziela"
+    ],
     "year": 2025,
     "runtimeMin": 94,
     "url": "https://festiwalgdynia.pl/?p=60385"
@@ -306,7 +380,9 @@
   {
     "id": 60543,
     "originalTitle": "Las",
-    "directors": "Joanna Zastróżna",
+    "directors": [
+      "Joanna Zastróżna"
+    ],
     "year": 2025,
     "runtimeMin": 95,
     "url": "https://festiwalgdynia.pl/?p=60543"
@@ -314,7 +390,9 @@
   {
     "id": 59869,
     "originalTitle": "Lucciola",
-    "directors": "Aleksandra Neyman",
+    "directors": [
+      "Aleksandra Neyman"
+    ],
     "year": 2025,
     "runtimeMin": 15,
     "url": "https://festiwalgdynia.pl/?p=59869"
@@ -322,7 +400,9 @@
   {
     "id": 59876,
     "originalTitle": "Ludzie i rzeczy",
-    "directors": "Damian Kosowski",
+    "directors": [
+      "Damian Kosowski"
+    ],
     "year": 2024,
     "runtimeMin": 20,
     "url": "https://festiwalgdynia.pl/?p=59876"
@@ -330,7 +410,9 @@
   {
     "id": 61571,
     "originalTitle": "Mama",
-    "directors": "Or Sinai",
+    "directors": [
+      "Or Sinai"
+    ],
     "year": 2025,
     "runtimeMin": 92,
     "url": "https://festiwalgdynia.pl/?p=61571"
@@ -338,7 +420,7 @@
   {
     "id": 63238,
     "originalTitle": "Masterclass Ewy Braun",
-    "directors": null,
+    "directors": [],
     "year": null,
     "runtimeMin": null,
     "url": "https://festiwalgdynia.pl/?p=63238"
@@ -346,7 +428,9 @@
   {
     "id": 60225,
     "originalTitle": "Ministranci",
-    "directors": "Piotr Domalewski",
+    "directors": [
+      "Piotr Domalewski"
+    ],
     "year": 2025,
     "runtimeMin": 110,
     "url": "https://festiwalgdynia.pl/?p=60225"
@@ -354,7 +438,9 @@
   {
     "id": 59883,
     "originalTitle": "Navidad de Marga",
-    "directors": "Marcia Majcher",
+    "directors": [
+      "Marcia Majcher"
+    ],
     "year": 2025,
     "runtimeMin": 22,
     "url": "https://festiwalgdynia.pl/?p=59883"
@@ -362,7 +448,9 @@
   {
     "id": 59890,
     "originalTitle": "Nibylandex",
-    "directors": "Agata Kapuścińska",
+    "directors": [
+      "Agata Kapuścińska"
+    ],
     "year": 2025,
     "runtimeMin": 23,
     "url": "https://festiwalgdynia.pl/?p=59890"
@@ -370,7 +458,9 @@
   {
     "id": 60230,
     "originalTitle": "Nie ma duchów w mieszkaniu na Dobrej",
-    "directors": "Emi Buchwald",
+    "directors": [
+      "Emi Buchwald"
+    ],
     "year": 2025,
     "runtimeMin": 90,
     "url": "https://festiwalgdynia.pl/?p=60230"
@@ -378,7 +468,9 @@
   {
     "id": 60821,
     "originalTitle": "Nieciekawa historia",
-    "directors": "Wojciech Jerzy Has",
+    "directors": [
+      "Wojciech Jerzy Has"
+    ],
     "year": 1982,
     "runtimeMin": 106,
     "url": "https://festiwalgdynia.pl/?p=60821"
@@ -386,7 +478,9 @@
   {
     "id": 59896,
     "originalTitle": "Nigdy nie znikasz",
-    "directors": "Jakub Cyryl Grabarczyk",
+    "directors": [
+      "Jakub Cyryl Grabarczyk"
+    ],
     "year": 2025,
     "runtimeMin": 20,
     "url": "https://festiwalgdynia.pl/?p=59896"
@@ -394,7 +488,9 @@
   {
     "id": 62077,
     "originalTitle": "O psie, który jeździł koleją 2",
-    "directors": "Magdalena Nieć",
+    "directors": [
+      "Magdalena Nieć"
+    ],
     "year": 2005,
     "runtimeMin": 93,
     "url": "https://festiwalgdynia.pl/?p=62077"
@@ -402,7 +498,9 @@
   {
     "id": 61066,
     "originalTitle": "Ogród Luizy",
-    "directors": "Maciej Wojtyszko",
+    "directors": [
+      "Maciej Wojtyszko"
+    ],
     "year": 2007,
     "runtimeMin": 105,
     "url": "https://festiwalgdynia.pl/?p=61066"
@@ -410,7 +508,9 @@
   {
     "id": 61676,
     "originalTitle": "Orzełek Iggy",
-    "directors": "Bartek Kędzierski",
+    "directors": [
+      "Bartek Kędzierski"
+    ],
     "year": 2025,
     "runtimeMin": 85,
     "url": "https://festiwalgdynia.pl/?p=61676"
@@ -429,7 +529,9 @@
   {
     "id": 62828,
     "originalTitle": "Otwarcie Gdynia Dzieciom i pokaz filmu Skarbek i tajemnica magicznego sreberka",
-    "directors": "Tomasz Jurkiewicz",
+    "directors": [
+      "Tomasz Jurkiewicz"
+    ],
     "year": 2024,
     "runtimeMin": 96,
     "url": "https://festiwalgdynia.pl/?p=62828"
@@ -437,7 +539,9 @@
   {
     "id": 61813,
     "originalTitle": "Pasażer Andrzej Munk",
-    "directors": "Michał Bielawski",
+    "directors": [
+      "Michał Bielawski"
+    ],
     "year": 2025,
     "runtimeMin": 84,
     "url": "https://festiwalgdynia.pl/?p=61813"
@@ -445,7 +549,9 @@
   {
     "id": 61806,
     "originalTitle": "Pasja według Agnieszki",
-    "directors": "Wojciech Staroń",
+    "directors": [
+      "Wojciech Staroń"
+    ],
     "year": 2025,
     "runtimeMin": 50,
     "url": "https://festiwalgdynia.pl/?p=61806"
@@ -453,7 +559,9 @@
   {
     "id": 59902,
     "originalTitle": "Patrzę w niebo",
-    "directors": "Alexandra Strunin",
+    "directors": [
+      "Alexandra Strunin"
+    ],
     "year": 2025,
     "runtimeMin": 24,
     "url": "https://festiwalgdynia.pl/?p=59902"
@@ -461,7 +569,9 @@
   {
     "id": 59909,
     "originalTitle": "Po prostu",
-    "directors": "Olga Kałagate",
+    "directors": [
+      "Olga Kałagate"
+    ],
     "year": 2025,
     "runtimeMin": 17,
     "url": "https://festiwalgdynia.pl/?p=59909"
@@ -469,7 +579,9 @@
   {
     "id": 61777,
     "originalTitle": "Pociągi",
-    "directors": "Maciej Drygas",
+    "directors": [
+      "Maciej Drygas"
+    ],
     "year": 2024,
     "runtimeMin": 80,
     "url": "https://festiwalgdynia.pl/?p=61777"
@@ -477,7 +589,9 @@
   {
     "id": 61792,
     "originalTitle": "Pod powierzchnią",
-    "directors": "Kinga Michalska",
+    "directors": [
+      "Kinga Michalska"
+    ],
     "year": 2025,
     "runtimeMin": 102,
     "url": "https://festiwalgdynia.pl/?p=61792"
@@ -485,7 +599,7 @@
   {
     "id": 63244,
     "originalTitle": "Pokaz zwycięskich filmów krótkometrażowych",
-    "directors": null,
+    "directors": [],
     "year": null,
     "runtimeMin": null,
     "url": "https://festiwalgdynia.pl/?p=63244"
@@ -493,7 +607,9 @@
   {
     "id": 60837,
     "originalTitle": "Popiół i diament",
-    "directors": "Andrzej Wajda",
+    "directors": [
+      "Andrzej Wajda"
+    ],
     "year": 1958,
     "runtimeMin": 97,
     "url": "https://festiwalgdynia.pl/?p=60837"
@@ -501,7 +617,9 @@
   {
     "id": 61060,
     "originalTitle": "Pora umierać",
-    "directors": "Dorota Kędzierzawska",
+    "directors": [
+      "Dorota Kędzierzawska"
+    ],
     "year": 2007,
     "runtimeMin": 104,
     "url": "https://festiwalgdynia.pl/?p=61060"
@@ -509,7 +627,9 @@
   {
     "id": 59916,
     "originalTitle": "Pożegnanie z morzem",
-    "directors": "Mateusz Nowak",
+    "directors": [
+      "Mateusz Nowak"
+    ],
     "year": 2025,
     "runtimeMin": 13,
     "url": "https://festiwalgdynia.pl/?p=59916"
@@ -517,7 +637,9 @@
   {
     "id": 60556,
     "originalTitle": "Północ Południe",
-    "directors": "Sebastian Pańczyk",
+    "directors": [
+      "Sebastian Pańczyk"
+    ],
     "year": 2025,
     "runtimeMin": 75,
     "url": "https://festiwalgdynia.pl/?p=60556"
@@ -525,7 +647,9 @@
   {
     "id": 60606,
     "originalTitle": "Przepiękne!",
-    "directors": "Katia Priwieziencew",
+    "directors": [
+      "Katia Priwieziencew"
+    ],
     "year": 2025,
     "runtimeMin": 119,
     "url": "https://festiwalgdynia.pl/?p=60606"
@@ -533,7 +657,9 @@
   {
     "id": 63648,
     "originalTitle": "Rękopis znaleziony w Saragossie - pokaz filmu z muzyką na żywo",
-    "directors": "Wojciech Jerzy Has",
+    "directors": [
+      "Wojciech Jerzy Has"
+    ],
     "year": 1965,
     "runtimeMin": 200,
     "url": "https://festiwalgdynia.pl/?p=63648"
@@ -541,7 +667,9 @@
   {
     "id": 61002,
     "originalTitle": "Rysopis",
-    "directors": "Jerzy Skolimowski",
+    "directors": [
+      "Jerzy Skolimowski"
+    ],
     "year": 1964,
     "runtimeMin": 76,
     "url": "https://festiwalgdynia.pl/?p=61002"
@@ -560,7 +688,9 @@
   {
     "id": 62045,
     "originalTitle": "RZYM TO KABARET – kulisy produkcji musicalu \"Quo Vadis\"",
-    "directors": "Agata Hering",
+    "directors": [
+      "Agata Hering"
+    ],
     "year": 2025,
     "runtimeMin": 80,
     "url": "https://festiwalgdynia.pl/?p=62045"
@@ -579,7 +709,9 @@
   {
     "id": 61799,
     "originalTitle": "Silver",
-    "directors": "Natalia Koniarz",
+    "directors": [
+      "Natalia Koniarz"
+    ],
     "year": 2025,
     "runtimeMin": 78,
     "url": "https://festiwalgdynia.pl/?p=61799"
@@ -587,7 +719,9 @@
   {
     "id": 60938,
     "originalTitle": "Skarbek i tajemnica magicznego sreberka",
-    "directors": "Tomasz Jurkiewicz",
+    "directors": [
+      "Tomasz Jurkiewicz"
+    ],
     "year": 2024,
     "runtimeMin": 96,
     "url": "https://festiwalgdynia.pl/?p=60938"
@@ -595,7 +729,9 @@
   {
     "id": 60911,
     "originalTitle": "Skrzat. Nowy początek",
-    "directors": "Krzysztof Komander",
+    "directors": [
+      "Krzysztof Komander"
+    ],
     "year": 2025,
     "runtimeMin": 99,
     "url": "https://festiwalgdynia.pl/?p=60911"
@@ -603,7 +739,9 @@
   {
     "id": 59924,
     "originalTitle": "SLAP!!",
-    "directors": "Mikołaj Piszczan",
+    "directors": [
+      "Mikołaj Piszczan"
+    ],
     "year": 2025,
     "runtimeMin": 22,
     "url": "https://festiwalgdynia.pl/?p=59924"
@@ -611,7 +749,9 @@
   {
     "id": 59931,
     "originalTitle": "Soap Opera",
-    "directors": "Anja Zalewska",
+    "directors": [
+      "Anja Zalewska"
+    ],
     "year": 2025,
     "runtimeMin": 16,
     "url": "https://festiwalgdynia.pl/?p=59931"
@@ -619,7 +759,9 @@
   {
     "id": 59938,
     "originalTitle": "Strach",
-    "directors": "Robert Zawadzki",
+    "directors": [
+      "Robert Zawadzki"
+    ],
     "year": 2025,
     "runtimeMin": 20,
     "url": "https://festiwalgdynia.pl/?p=59938"
@@ -627,7 +769,9 @@
   {
     "id": 59944,
     "originalTitle": "Szmonces o Dybuku",
-    "directors": "Maciej Tyburski",
+    "directors": [
+      "Maciej Tyburski"
+    ],
     "year": 2025,
     "runtimeMin": 22,
     "url": "https://festiwalgdynia.pl/?p=59944"
@@ -635,7 +779,9 @@
   {
     "id": 60847,
     "originalTitle": "Szpital przemienienia",
-    "directors": "Edward Żebrowski",
+    "directors": [
+      "Edward Żebrowski"
+    ],
     "year": 1974,
     "runtimeMin": 90,
     "url": "https://festiwalgdynia.pl/?p=60847"
@@ -643,7 +789,9 @@
   {
     "id": 61054,
     "originalTitle": "Sztuczki",
-    "directors": "Andrzej Jakimowski",
+    "directors": [
+      "Andrzej Jakimowski"
+    ],
     "year": 2007,
     "runtimeMin": 95,
     "url": "https://festiwalgdynia.pl/?p=61054"
@@ -651,7 +799,9 @@
   {
     "id": 59950,
     "originalTitle": "Szumy i fonie",
-    "directors": "Piotr Krzysztof Kamiński",
+    "directors": [
+      "Piotr Krzysztof Kamiński"
+    ],
     "year": 2024,
     "runtimeMin": 16,
     "url": "https://festiwalgdynia.pl/?p=59950"
@@ -659,7 +809,9 @@
   {
     "id": 60391,
     "originalTitle": "Światłoczuła",
-    "directors": "Tadeusz Śliwa",
+    "directors": [
+      "Tadeusz Śliwa"
+    ],
     "year": 2024,
     "runtimeMin": 93,
     "url": "https://festiwalgdynia.pl/?p=60391"
@@ -667,7 +819,9 @@
   {
     "id": 59956,
     "originalTitle": "Taty nie ma",
-    "directors": "Jan Saczek",
+    "directors": [
+      "Jan Saczek"
+    ],
     "year": 2025,
     "runtimeMin": 28,
     "url": "https://festiwalgdynia.pl/?p=59956"
@@ -675,7 +829,9 @@
   {
     "id": 60236,
     "originalTitle": "Terytorium",
-    "directors": "Bartosz Paduch",
+    "directors": [
+      "Bartosz Paduch"
+    ],
     "year": 2025,
     "runtimeMin": 97,
     "url": "https://festiwalgdynia.pl/?p=60236"
@@ -683,7 +839,9 @@
   {
     "id": 59961,
     "originalTitle": "tłum. it's okay to be quiet",
-    "directors": "Filip Jakubowski",
+    "directors": [
+      "Filip Jakubowski"
+    ],
     "year": 2025,
     "runtimeMin": 21,
     "url": "https://festiwalgdynia.pl/?p=59961"
@@ -691,7 +849,9 @@
   {
     "id": 60578,
     "originalTitle": "To się nie dzieje",
-    "directors": "Artur Wyrzykowski",
+    "directors": [
+      "Artur Wyrzykowski"
+    ],
     "year": 2025,
     "runtimeMin": 76,
     "url": "https://festiwalgdynia.pl/?p=60578"
@@ -699,7 +859,9 @@
   {
     "id": 60241,
     "originalTitle": "Trzy miłości",
-    "directors": "Łukasz Grzegorzek",
+    "directors": [
+      "Łukasz Grzegorzek"
+    ],
     "year": 2025,
     "runtimeMin": 100,
     "url": "https://festiwalgdynia.pl/?p=60241"
@@ -707,7 +869,9 @@
   {
     "id": 62832,
     "originalTitle": "Uroczystość Otwarcia Festiwalu i pokaz filmu Chopin, Chopin!",
-    "directors": "Michał Kwieciński",
+    "directors": [
+      "Michał Kwieciński"
+    ],
     "year": 2025,
     "runtimeMin": 133,
     "url": "https://festiwalgdynia.pl/?p=62832"
@@ -715,7 +879,9 @@
   {
     "id": 60997,
     "originalTitle": "Vabank",
-    "directors": "Juliusz Machulski",
+    "directors": [
+      "Juliusz Machulski"
+    ],
     "year": 1981,
     "runtimeMin": 108,
     "url": "https://festiwalgdynia.pl/?p=60997"
@@ -723,7 +889,9 @@
   {
     "id": 60247,
     "originalTitle": "Vinci 2",
-    "directors": "Juliusz Machulski",
+    "directors": [
+      "Juliusz Machulski"
+    ],
     "year": 2025,
     "runtimeMin": 119,
     "url": "https://festiwalgdynia.pl/?p=60247"
@@ -731,7 +899,9 @@
   {
     "id": 60973,
     "originalTitle": "Walkower",
-    "directors": "Jerzy Skolimowski",
+    "directors": [
+      "Jerzy Skolimowski"
+    ],
     "year": 1965,
     "runtimeMin": 78,
     "url": "https://festiwalgdynia.pl/?p=60973"
@@ -739,7 +909,9 @@
   {
     "id": 60253,
     "originalTitle": "Wielka Warszawska",
-    "directors": "Bartłomiej Ignaciuk",
+    "directors": [
+      "Bartłomiej Ignaciuk"
+    ],
     "year": 2025,
     "runtimeMin": 105,
     "url": "https://festiwalgdynia.pl/?p=60253"
@@ -747,7 +919,9 @@
   {
     "id": 61228,
     "originalTitle": "Wrota Europy",
-    "directors": "Jerzy Wójcik",
+    "directors": [
+      "Jerzy Wójcik"
+    ],
     "year": 1999,
     "runtimeMin": 73,
     "url": "https://festiwalgdynia.pl/?p=61228"
@@ -755,7 +929,9 @@
   {
     "id": 59967,
     "originalTitle": "Wyspy",
-    "directors": "Jakub Wenda",
+    "directors": [
+      "Jakub Wenda"
+    ],
     "year": 2025,
     "runtimeMin": 15,
     "url": "https://festiwalgdynia.pl/?p=59967"
@@ -763,7 +939,9 @@
   {
     "id": 60259,
     "originalTitle": "Zamach na papieża",
-    "directors": "Władysław Pasikowski",
+    "directors": [
+      "Władysław Pasikowski"
+    ],
     "year": 2025,
     "runtimeMin": 116,
     "url": "https://festiwalgdynia.pl/?p=60259"
@@ -771,7 +949,9 @@
   {
     "id": 60591,
     "originalTitle": "Zaprawdę Hitler umarł",
-    "directors": "Monika Strzępka",
+    "directors": [
+      "Monika Strzępka"
+    ],
     "year": 2025,
     "runtimeMin": 85,
     "url": "https://festiwalgdynia.pl/?p=60591"
@@ -779,7 +959,9 @@
   {
     "id": 62053,
     "originalTitle": "Zmęczone",
-    "directors": "Elżbieta Benkowska",
+    "directors": [
+      "Elżbieta Benkowska"
+    ],
     "year": 2025,
     "runtimeMin": 48,
     "url": "https://festiwalgdynia.pl/?p=62053"
@@ -787,7 +969,9 @@
   {
     "id": 59978,
     "originalTitle": "Zwyczaje pingwinów",
-    "directors": "Jakub Poterała",
+    "directors": [
+      "Jakub Poterała"
+    ],
     "year": 2025,
     "runtimeMin": 15,
     "url": "https://festiwalgdynia.pl/?p=59978"
@@ -795,7 +979,9 @@
   {
     "id": 59983,
     "originalTitle": "zza szyby podglądam jak umiera sarna, młoda",
-    "directors": "Angelika Cygal",
+    "directors": [
+      "Angelika Cygal"
+    ],
     "year": 2025,
     "runtimeMin": 16,
     "url": "https://festiwalgdynia.pl/?p=59983"
@@ -803,7 +989,9 @@
   {
     "id": 59973,
     "originalTitle": "Żabi śpiew",
-    "directors": "Xymena Zaręba",
+    "directors": [
+      "Xymena Zaręba"
+    ],
     "year": 2025,
     "runtimeMin": 15,
     "url": "https://festiwalgdynia.pl/?p=59973"
@@ -811,7 +999,9 @@
   {
     "id": 61044,
     "originalTitle": "Żądło",
-    "directors": "George Roy Hill",
+    "directors": [
+      "George Roy Hill"
+    ],
     "year": 1973,
     "runtimeMin": 129,
     "url": "https://festiwalgdynia.pl/?p=61044"
@@ -819,7 +1009,9 @@
   {
     "id": 60378,
     "originalTitle": "Życie dla początkujących",
-    "directors": "Paweł Podolski",
+    "directors": [
+      "Paweł Podolski"
+    ],
     "year": 2025,
     "runtimeMin": 76,
     "url": "https://festiwalgdynia.pl/?p=60378"

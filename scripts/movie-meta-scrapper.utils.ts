@@ -130,7 +130,7 @@ export function extractDirectorsListFromInfoBlock(
     infoRoot: Element | Document | null,
     originalTitle: string,
     enableWarnings: boolean = true
-): string[] | null {
+): string[] {
     const warn = (message: string, extra?: unknown) => {
         if (!enableWarnings) return;
         // Nice, contextual warning
@@ -150,7 +150,7 @@ export function extractDirectorsListFromInfoBlock(
 
     if (!infoRoot) {
         warn(`${originalTitle} Missing infoRoot element; cannot search for .details-directors.`);
-        return null;
+        return [];
     }
 
     // 1) Try anchor-based extraction
@@ -170,7 +170,7 @@ export function extractDirectorsListFromInfoBlock(
 
         if (!rawDirectorsText) {
             warn(`${originalTitle} No directors found: .details-directors is empty or missing.`);
-            return null;
+            return [];
         }
 
         // Remove a common Polish prefix like "reż." / "reż"
@@ -181,7 +181,7 @@ export function extractDirectorsListFromInfoBlock(
             warn(`${originalTitle} Directors text exists but became empty after removing prefix.`, {
                 raw: rawDirectorsText,
             });
-            return null;
+            return [];
         }
 
         // Split by commas; trim, drop empties
@@ -196,7 +196,7 @@ export function extractDirectorsListFromInfoBlock(
 
     if (uniqueNames.length === 0) {
         warn(`${originalTitle} Directors parsing yielded an empty list after normalization.`);
-        return null;
+        return [];
     }
 
     return uniqueNames;
