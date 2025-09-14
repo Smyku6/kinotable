@@ -77,6 +77,13 @@ function contestStyle(contestId: number | null | undefined) {
     const idx = Math.abs(contestId) % CONTEST_PALETTE.length;
     return CONTEST_PALETTE[idx];
 }
+function formatMinutes(total: number) {
+    const h = Math.floor(total / 60);
+    const m = total % 60;
+    if (h > 0 && m > 0) return `${h}h ${m}min`;
+    if (h > 0) return `${h}h`;
+    return `${m}min`;
+}
 
 export default function ClientSchedule({ db }: { db: Db }) {
     const days = useMemo(() => daysBetweenInclusive(FEST_START, FEST_END), []);
@@ -282,7 +289,7 @@ export default function ClientSchedule({ db }: { db: Db }) {
                           })}
                         </span>
                                                         <span>•</span>
-                                                        <span>{duration} min</span>
+                                                        <span>{formatMinutes(duration)}</span>
                                                     </div>
 
                                                     {contest?.name ? (
