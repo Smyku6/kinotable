@@ -15,7 +15,7 @@ export function useDb() {
                 setLoading(true);
                 setError(null);
                 const base = process.env.NEXT_PUBLIC_BASE_PATH ? `/${process.env.NEXT_PUBLIC_BASE_PATH}` : "";
-
+                console.log({base})
                 const res = await fetch(`${base}/data/build/db.json`, { cache: "no-store" });
                 if (!res.ok) throw new Error(`HTTP ${res.status}`);
                 const json = (await res.json()) as Db;

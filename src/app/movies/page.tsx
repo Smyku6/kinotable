@@ -9,6 +9,7 @@ import {ContestSelect} from "@/components/features/movies/ContestSelect";
 
 export default function MoviesPage() {
     const { db, loading, error } = useDb();
+    console.log({ db, loading, error });
     const selectedContests = useMoviesFiltersStore((s) => s.selectedContestIds);
 
     const filteredIds = useMemo(() => {
