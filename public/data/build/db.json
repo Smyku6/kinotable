@@ -1,6 +1,6 @@
 {
   "$schemaVersion": "1.0.0",
-  "generatedAt": "2025-09-14T20:52:06.541Z",
+  "generatedAt": "2025-09-19T14:40:08.546Z",
   "moviesById": {
     "59768": {
       "id": 59768,
@@ -3040,13 +3040,13 @@
       "accreditationOnly": false
     },
     {
-      "id": "1758700800000681246861813",
+      "id": "1758701700000681246861813",
       "movieIds": [
         61813
       ],
       "contestId": 2468,
       "locationId": 681,
-      "startsAt": "2025-09-24T10:00:00",
+      "startsAt": "2025-09-24T10:15:00",
       "accreditationOnly": false
     },
     {
@@ -3112,9 +3112,9 @@
       "accreditationOnly": false
     },
     {
-      "id": "175871610000068389160214",
+      "id": "175871610000068389160247",
       "movieIds": [
-        60214
+        60247
       ],
       "contestId": 891,
       "locationId": 683,
