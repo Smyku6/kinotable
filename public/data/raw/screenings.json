@@ -2022,7 +2022,7 @@
     ],
     "contestId": 2468,
     "placeId": 681,
-    "startsAt": "2025-09-24T10:00:00",
+    "startsAt": "2025-09-24T10:15:00",
     "accreditationNeeded": false
   },
   {
@@ -2094,9 +2094,9 @@
     "accreditationNeeded": false
   },
   {
-    "movieIds": 60214,
+    "movieIds": 60247,
     "movieTitles": [
-      "Franz Kafka"
+      "Vinci 2"
     ],
     "contestId": 891,
     "placeId": 683,

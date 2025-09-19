@@ -124,7 +124,7 @@ function parsePolishDateLine(s: string): { y: number; m: number; d: number } | n
 // Typ wyniku
 // ==========================
 type ScreeningRecord = {
-    id: number | number[] | null; // 1 → number, pakiet → number[]
+    movieIds: number | number[] | null; // 1 → number, pakiet → number[]
     movieTitles: string[];             // z <td class="title"> (wszystkie <a>)
     contestId: number | null;          // z item-type-####
     placeId: number | null;            // z item-location-####
@@ -190,7 +190,7 @@ function parseScreeningsFromDocument(doc: Document): ScreeningRecord[] {
 
         // --- ID filmu/filmów ---
         const idNums = extractAllNumsFromClasses(row.classList, /^item-id-m-(\d+)$/);
-        const id: ScreeningRecord["id"] =
+        const movieIds: ScreeningRecord["movieIds"] =
             idNums.length <= 1 ? (idNums[0] ?? null) : idNums.slice();
 
         // --- Konkurs/sekcja ---
@@ -242,7 +242,7 @@ function parseScreeningsFromDocument(doc: Document): ScreeningRecord[] {
         }
 
         return {
-            id,
+            movieIds,
             movieTitles,
             contestId,
             placeId,
